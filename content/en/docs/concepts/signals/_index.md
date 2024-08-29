@@ -1,26 +1,26 @@
 ---
-title: Signals
-description: Learn about the categories of telemetry supported by OpenTelemetry
+title: Sinais
+description: Aprenda sobre as categorias de telemetria suportadas pelo OpenTelemetry
 aliases:
   - /docs/concepts/data-sources
   - /docs/concepts/otel-concepts
 weight: 11
 ---
 
-The purpose of OpenTelemetry is to collect, process, and export **[signals][]**.
-Signals are system outputs that describe the underlying activity of the
-operating system and applications running on a platform. A signal can be
-something you want to measure at a specific point in time, like temperature or
-memory usage, or an event that goes through the components of your distributed
-system that you'd like to trace. You can group different signals together to
-observe the inner workings of the same piece of technology under different
-angles.
+O propósito do OpenTelemetry é coletar, processar e exportar **[sinais][]**.
+Sinais são saídas do sistema que descrevem a atividade subjacente do 
+sistema operacional e das aplicações que estão sendo executadas em uma plataforma.
+Um sinal pode ser algo que você deseja medir em um momento específico, como
+a temperatura ou o uso de memória, ou um evento que passa pelos componentes do 
+seu sistema distribuído e que você gostaria de rastrear. Você pode agrupar 
+diferentes sinais para observar o funcionamento interno de uma mesma tecnologia
+sob diferentes ângulos.
 
-OpenTelemetry currently supports [traces](/docs/concepts/signals/traces),
-[metrics](/docs/concepts/signals/metrics), [logs](/docs/concepts/signals/logs)
-and [baggage](/docs/concepts/signals/baggage). _Events_ are a specific type of
-log, and
-[_profiles_ are being worked on](https://github.com/open-telemetry/oteps/blob/main/text/profiles/0212-profiling-vision.md)
-by the Profiling Working Group.
+OpenTelemetry atualmente suporta [rastros](/docs/concepts/signals/traces),
+[métricas](/docs/concepts/signals/metrics), [logs](/docs/concepts/signals/logs)
+and [baggage](/docs/concepts/signals/baggage). _Eventos_ são um tipo específico 
+de log, e o
+[_perfilamento_ está sendo trabalhado](https://github.com/open-telemetry/oteps/blob/main/text/profiles/0212-profiling-vision.md)
+pelo Grupo de Trabalho de Perfilamento (Profiling Working Group).
 
 [signals]: /docs/specs/otel/glossary/#signals
