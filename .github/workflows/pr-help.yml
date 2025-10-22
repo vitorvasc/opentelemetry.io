@@ -23,8 +23,8 @@ jobs:
     name: Show PR actions help
     runs-on: ubuntu-latest
     if: |
-      github.event.issue.pull_request &&
-      github.event.comment.body == '/help'
+      github.event_name == 'workflow_dispatch' ||
+      (github.event.issue.pull_request && github.event.comment.body == '/help')
 
     permissions:
       pull-requests: write
@@ -69,6 +69,7 @@ jobs:
           GH_TOKEN: ${{ steps.otelbot-token.outputs.token }}
 
       - name: Add reaction to trigger comment
+        if: github.event_name == 'issue_comment'
         run: |
           # Add a 👀 reaction to acknowledge the command
           gh api \
