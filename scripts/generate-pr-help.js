@@ -24,7 +24,7 @@ const COMMAND_DESCRIPTIONS = {
   'fix:submodule': 'Pin submodules and update semconv mounts',
   'fix:text': 'Fix textlint issues',
   'fix:all': 'Run all fix commands (except i18n)',
-  'fix': 'Run all fix commands',
+  fix: 'Run all fix commands',
 };
 
 // Common usage examples

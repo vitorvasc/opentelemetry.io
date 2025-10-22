@@ -4,13 +4,19 @@ name: PR help
 on:
   issue_comment:
     types: [created]
+  workflow_dispatch:
+    inputs:
+      pr_number:
+        description: 'PR number to comment on'
+        required: true
+        type: number
 
 permissions:
   contents: read
 
 env:
   COMMENT: ${{ github.event.comment.body }}
-  PR_NUM: ${{ github.event.issue.number }}
+  PR_NUM: ${{ github.event.inputs.pr_number || github.event.issue.number }}
 
 jobs:
   show-help:
