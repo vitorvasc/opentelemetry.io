@@ -1,0 +1,1040 @@
+pr_number,pr_url,pr_state,comment_type,reviewer,created_at,path,category,body
+8871,https://github.com/open-telemetry/opentelemetry.io/pull/8871,merged,inline_comment,svrnm,2026-02-12T09:33:13Z,data/registry/instrumentation-dotnet-fusioncache.yml,description-quality,"```suggestion
+```"
+8871,https://github.com/open-telemetry/opentelemetry.io/pull/8871,merged,review_approved,svrnm,2026-02-12T09:33:35Z,,ci-lint-request,"overall lgtm, let's make sure the linters work and then we can merge"
+8871,https://github.com/open-telemetry/opentelemetry.io/pull/8871,merged,issue_comment,svrnm,2026-02-12T09:37:56Z,,ci-fix-command,/fix:all
+8871,https://github.com/open-telemetry/opentelemetry.io/pull/8871,merged,issue_comment,otelbot-docs,2026-02-12T09:47:03Z,,bot-status,✅ `fix:all` applied successfully in [run 21941205897](https://github.com/open-telemetry/opentelemetry.io/actions/runs/21941205897).
+8979,https://github.com/open-telemetry/opentelemetry.io/pull/8979,merged,review_approved,theletterf,2026-01-23T14:56:36Z,,approval-note,Thanks!
+8979,https://github.com/open-telemetry/opentelemetry.io/pull/8979,merged,review_changes_requested,theletterf,2026-01-23T15:20:47Z,,broken-link,https://pkg.go.dev/https:/github.com/hydrolix/hydrolix-exporter/tree/main/hydrolixexporter is throwing a 404
+8979,https://github.com/open-telemetry/opentelemetry.io/pull/8979,merged,issue_comment,theletterf,2026-01-26T09:22:49Z,,ci-fix-command,/fix:refcache
+8979,https://github.com/open-telemetry/opentelemetry.io/pull/8979,merged,issue_comment,otelbot-docs,2026-01-26T09:30:23Z,,bot-status,❌ `fix:refcache` failed or exited with a non-zero error code (0). See logs: https://github.com/open-telemetry/opentelemetry.io/actions/runs/21352479922
+8979,https://github.com/open-telemetry/opentelemetry.io/pull/8979,merged,issue_comment,theletterf,2026-01-26T09:37:08Z,,process-workflow,@murphpdx Could you rebase your branch with the latest changes from upstream?
+8979,https://github.com/open-telemetry/opentelemetry.io/pull/8979,merged,issue_comment,theletterf,2026-01-27T09:51:18Z,,ci-fix-command,/fix:refcache
+8979,https://github.com/open-telemetry/opentelemetry.io/pull/8979,merged,issue_comment,otelbot-docs,2026-01-27T09:58:40Z,,bot-status,❌ `fix:refcache` failed or exited with a non-zero error code (0). See logs: https://github.com/open-telemetry/opentelemetry.io/actions/runs/21392468670
+9090,https://github.com/open-telemetry/opentelemetry.io/pull/9090,merged,issue_comment,vitorvasc,2026-02-03T12:10:46Z,,ci-fix-command,/fix:all
+9090,https://github.com/open-telemetry/opentelemetry.io/pull/9090,merged,issue_comment,otelbot-docs,2026-02-03T12:20:06Z,,bot-status,✅ `fix:all` applied successfully in [run 21629670719](https://github.com/open-telemetry/opentelemetry.io/actions/runs/21629670719).
+9090,https://github.com/open-telemetry/opentelemetry.io/pull/9090,merged,review_approved,vitorvasc,2026-02-03T12:26:45Z,,approval-note,Thanks!
+9121,https://github.com/open-telemetry/opentelemetry.io/pull/9121,merged,issue_comment,otelbot-docs,2026-02-09T15:28:23Z,,bot-status,❌ `fix:refcache` failed or exited with a non-zero error code (0). See logs: https://github.com/open-telemetry/opentelemetry.io/actions/runs/21830895848
+9121,https://github.com/open-telemetry/opentelemetry.io/pull/9121,merged,inline_comment,svrnm,2026-02-12T06:52:00Z,data/registry/instrumentation-ruby-ruby-llm.yml,spelling-cspell,"```suggestion
+# cSpell:ignore: thoughtbot
+title: RubyLLM Instrumentation
+```"
+9121,https://github.com/open-telemetry/opentelemetry.io/pull/9121,merged,issue_comment,vitorvasc,2026-02-12T13:53:09Z,,ci-fix-command,/fix:refcache
+9121,https://github.com/open-telemetry/opentelemetry.io/pull/9121,merged,issue_comment,otelbot-docs,2026-02-12T14:00:58Z,,bot-status,❌ `fix:refcache` failed or exited with a non-zero error code (0). See logs: https://github.com/open-telemetry/opentelemetry.io/actions/runs/21949376115
+9121,https://github.com/open-telemetry/opentelemetry.io/pull/9121,merged,issue_comment,vitorvasc,2026-02-12T15:55:12Z,,process-workflow,"> Oh whoops, messed up the history for a minute, sorry!
+
+No worries at all! The checks are looking good now, thanks! 🙌🏼"
+9149,https://github.com/open-telemetry/opentelemetry.io/pull/9149,merged,inline_comment,svrnm,2026-02-11T11:17:50Z,data/registry/application-integration-go-traefik-proxy.yml,duplicate-entry,"we have an entry for ""[Traefik Hub API Management](https://traefik.io/traefik-hub/)"" already, I assume this is different, right?"
+9195,https://github.com/open-telemetry/opentelemetry.io/pull/9195,merged,issue_comment,otelbot-docs,2026-02-17T20:54:04Z,,bot-status,✅ `fix:refcache` applied successfully in [run 22115087056](https://github.com/open-telemetry/opentelemetry.io/actions/runs/22115087056).
+9195,https://github.com/open-telemetry/opentelemetry.io/pull/9195,merged,review_approved,vitorvasc,2026-02-18T10:40:45Z,,approval-note,Thanks!
+9224,https://github.com/open-telemetry/opentelemetry.io/pull/9224,merged,issue_comment,otelbot-docs,2026-02-19T18:30:29Z,,bot-status,✅ `fix:refcache` applied successfully in [run 22194489411](https://github.com/open-telemetry/opentelemetry.io/actions/runs/22194489411).
+9234,https://github.com/open-telemetry/opentelemetry.io/pull/9234,merged,inline_comment,vitorvasc,2026-02-20T14:42:34Z,data/registry/collector-receiver-opcua.yml,description-quality,"```suggestion
+  the LogObject specification [(OPC UA Part 26)](https://reference.opcfoundation.org/Core/Part26/v105/docs/) and converts them to OpenTelemetry
+```"
+9234,https://github.com/open-telemetry/opentelemetry.io/pull/9234,merged,review_approved,vitorvasc,2026-02-20T14:44:32Z,,approval-note,"Thanks! I've left a quick inline suggestion adding the specification reference, if that makes sense. 
+
+Otherwise, LGTM! 🙂"
+9234,https://github.com/open-telemetry/opentelemetry.io/pull/9234,merged,issue_comment,vitorvasc,2026-02-20T14:44:44Z,,ci-fix-command,/fix:all
+9234,https://github.com/open-telemetry/opentelemetry.io/pull/9234,merged,issue_comment,otelbot-docs,2026-02-20T14:53:51Z,,bot-status,✅ `fix:all` applied successfully in [run 22228492842](https://github.com/open-telemetry/opentelemetry.io/actions/runs/22228492842).
+9234,https://github.com/open-telemetry/opentelemetry.io/pull/9234,merged,issue_comment,vitorvasc,2026-02-23T19:45:17Z,,ci-fix-command,/fix:all
+9234,https://github.com/open-telemetry/opentelemetry.io/pull/9234,merged,issue_comment,otelbot-docs,2026-02-23T19:54:34Z,,bot-status,✅ `fix:all` applied successfully in [run 22322076323](https://github.com/open-telemetry/opentelemetry.io/actions/runs/22322076323).
+9234,https://github.com/open-telemetry/opentelemetry.io/pull/9234,merged,inline_comment,vitorvasc,2026-02-23T19:58:44Z,data/registry/collector-receiver-opcua.yml,spelling-cspell,"Just one final adjustment to fix the spell checker: 
+
+```suggestion
+# cSpell:ignore Brüggemann opcua
+```"
+9244,https://github.com/open-telemetry/opentelemetry.io/pull/9244,merged,issue_comment,otelbot-docs,2026-02-23T13:44:52Z,,bot-status,✅ `fix:refcache` applied successfully in [run 22308255606](https://github.com/open-telemetry/opentelemetry.io/actions/runs/22308255606).
+9244,https://github.com/open-telemetry/opentelemetry.io/pull/9244,merged,inline_comment,vitorvasc,2026-02-23T20:24:29Z,data/registry/tools-go-motel.yml,spelling-cspell,"```suggestion
+# cSpell:ignore Hodgson
+title: motel
+```"
+9244,https://github.com/open-telemetry/opentelemetry.io/pull/9244,merged,review_approved,vitorvasc,2026-02-24T10:57:12Z,,approval-note,Thanks!
+9246,https://github.com/open-telemetry/opentelemetry.io/pull/9246,merged,issue_comment,vitorvasc,2026-02-23T19:28:31Z,,process-workflow,/easycla
+9246,https://github.com/open-telemetry/opentelemetry.io/pull/9246,merged,review_approved,vitorvasc,2026-02-24T10:55:56Z,,approval-note,Thanks!
+9278,https://github.com/open-telemetry/opentelemetry.io/pull/9278,merged,review_commented,copilot-pull-request-reviewer,2026-02-26T14:58:48Z,,automated-review-summary,"## Pull request overview
+
+This PR refreshes the reference cache by updating the repository URL for the Java Javalin instrumentation entry. The change removes the version-specific suffix from the repository path, updating it from `instrumentation/javalin-5.0` to `instrumentation/javalin`. This is part of a broader cache refresh effort that updates 800 of the oldest refcache entries.
+
+**Changes:**
+- Updated the repository URL for the Java Javalin instrumentation to point to a version-agnostic path"
+9295,https://github.com/open-telemetry/opentelemetry.io/pull/9295,merged,inline_comment,vitorvasc,2026-02-27T15:00:16Z,data/registry/collector-extension-k8ssaauth.yml,spelling-cspell,"```suggestion
+# cSpell:ignore Jamstah ssaauthextension
+title: Kubernetes Service Account Authenticator Extension
+```"
+9295,https://github.com/open-telemetry/opentelemetry.io/pull/9295,merged,issue_comment,vitorvasc,2026-02-27T15:13:20Z,,ci-fix-command,/fix:all
+9295,https://github.com/open-telemetry/opentelemetry.io/pull/9295,merged,issue_comment,otelbot-docs,2026-02-27T15:22:39Z,,bot-status,✅ `fix:all` applied successfully in [run 22491803795](https://github.com/open-telemetry/opentelemetry.io/actions/runs/22491803795).
+9295,https://github.com/open-telemetry/opentelemetry.io/pull/9295,merged,issue_comment,chalin,2026-02-27T19:02:13Z,,process-workflow,@Jamstah - heads up that I'll be testing `/fix` directives over this PR. Apologies for the noise.
+9295,https://github.com/open-telemetry/opentelemetry.io/pull/9295,merged,issue_comment,chalin,2026-02-27T19:02:20Z,,ci-fix-command,/fix:all
+9295,https://github.com/open-telemetry/opentelemetry.io/pull/9295,merged,issue_comment,chalin,2026-02-27T19:14:40Z,,ci-fix-command,/fix
+9295,https://github.com/open-telemetry/opentelemetry.io/pull/9295,merged,inline_comment,cartermp,2026-02-28T17:43:36Z,data/registry/collector-extension-k8ssaauth.yml,spelling-cspell,"```suggestion
+# cSpell:ignore Jamstah ssaauthextension k8ssaauthextension
+```"
+9295,https://github.com/open-telemetry/opentelemetry.io/pull/9295,merged,inline_comment,cartermp,2026-02-28T18:03:48Z,data/registry/collector-extension-k8ssaauth.yml,registry-metadata,"I think this should be a value like `go-collector`, but I'm honestly not sure if that's the correct ""allowed value"" (values are unspecified).
+
+@svrnm any thoughts? This is a consequence of the registry validator throwing an error here."
+9295,https://github.com/open-telemetry/opentelemetry.io/pull/9295,merged,issue_comment,cartermp,2026-02-28T18:55:50Z,,broken-link,@Jamstah seems like this needs to be available in gopkg https://pkg.go.dev/search?q=k8ssaauthextension
+9295,https://github.com/open-telemetry/opentelemetry.io/pull/9295,merged,issue_comment,otelbot-docs,2026-03-02T10:11:11Z,,bot-status,✅ `fix:refcache` applied successfully in [run 22570964058](https://github.com/open-telemetry/opentelemetry.io/actions/runs/22570964058).
+9296,https://github.com/open-telemetry/opentelemetry.io/pull/9296,merged,inline_comment,cartermp,2026-02-28T17:34:36Z,.devcontainer/devcontainer.json,approval-note,"Yeah this is fine, looks like the tag just represents an updated debian base image."
+9375,https://github.com/open-telemetry/opentelemetry.io/pull/9375,closed_unmerged,inline_comment,vitorvasc,2026-03-10T10:12:42Z,data/registry/utilities-js-smapped-traces.yml,spelling-cspell,"```suggestion
+# cSpell:ignore jrandolf nextjs smapped
+title: smapped-traces
+```"
+9375,https://github.com/open-telemetry/opentelemetry.io/pull/9375,closed_unmerged,inline_comment,vitorvasc,2026-03-12T10:15:19Z,data/registry/utilities-js-smapped-traces.yml,registry-metadata,"We can drop this section for this component: 
+
+```suggestion
+```
+
+This should also fix the [workflow errors](https://github.com/open-telemetry/opentelemetry.io/actions/runs/22996350595/job/66770263464?pr=9375) we're seeing."
+9375,https://github.com/open-telemetry/opentelemetry.io/pull/9375,closed_unmerged,issue_comment,vitorvasc,2026-03-13T09:31:03Z,,ci-fix-command,/fix:refcache
+9375,https://github.com/open-telemetry/opentelemetry.io/pull/9375,closed_unmerged,issue_comment,otelbot-docs,2026-03-13T09:38:26Z,,bot-status,❌ `fix:refcache` failed or exited with a non-zero error code (0). See logs: https://github.com/open-telemetry/opentelemetry.io/actions/runs/23044694761
+9375,https://github.com/open-telemetry/opentelemetry.io/pull/9375,closed_unmerged,issue_comment,tiffany76,2026-03-13T23:07:31Z,,ci-fix-command,/fix:refcache
+9375,https://github.com/open-telemetry/opentelemetry.io/pull/9375,closed_unmerged,issue_comment,otelbot-docs,2026-03-13T23:15:02Z,,bot-status,❌ `fix:refcache` failed or exited with a non-zero error code (0). See logs: https://github.com/open-telemetry/opentelemetry.io/actions/runs/23074099052
+9375,https://github.com/open-telemetry/opentelemetry.io/pull/9375,closed_unmerged,issue_comment,vitorvasc,2026-03-16T10:58:30Z,,ci-fix-command,"Hi @jrandolf!
+
+There's just one last fix needed before we can move forward and merge this PR, which is the reference cache. It seems like our bot can't apply that fix through the `/fix:refcache` command via the GitHub workflow, and I wonder if this is because you're using a fork from an organization instead of your personal account.
+
+Could you try running `npm run fix:refcache` locally and commit the results, please? 🙌🏼"
+9375,https://github.com/open-telemetry/opentelemetry.io/pull/9375,closed_unmerged,issue_comment,vitorvasc,2026-05-13T16:25:12Z,,pr-closure,"Hi @jrandolf. Due to the lack of answer, I’m closing this pull request for now.
+
+If you’d like to contribute in the future, feel free to open a new issue or pull request. Thanks!"
+9384,https://github.com/open-telemetry/opentelemetry.io/pull/9384,merged,inline_comment,tiffany76,2026-03-12T01:34:20Z,data/registry/collector-receiver-chromium.yml,description-quality,"```suggestion
+description: OTel Collector receiver for generating metrics from a Chromium instance.
+```"
+9384,https://github.com/open-telemetry/opentelemetry.io/pull/9384,merged,issue_comment,tiffany76,2026-03-12T19:21:12Z,,ci-fix-command,/fix:refcache
+9384,https://github.com/open-telemetry/opentelemetry.io/pull/9384,merged,issue_comment,otelbot-docs,2026-03-12T19:29:18Z,,bot-status,✅ `fix:refcache` applied successfully in [run 23019741964](https://github.com/open-telemetry/opentelemetry.io/actions/runs/23019741964).
+9388,https://github.com/open-telemetry/opentelemetry.io/pull/9388,merged,issue_comment,vitorvasc,2026-03-12T08:31:12Z,,ci-fix-command,/fix:refcache
+9390,https://github.com/open-telemetry/opentelemetry.io/pull/9390,merged,issue_comment,vitorvasc,2026-03-12T10:56:46Z,,ci-fix-command,/fix:dict
+9390,https://github.com/open-telemetry/opentelemetry.io/pull/9390,merged,issue_comment,otelbot-docs,2026-03-12T10:58:51Z,,bot-status,✅ `fix:dict` applied successfully in [run 22998573661](https://github.com/open-telemetry/opentelemetry.io/actions/runs/22998573661).
+9390,https://github.com/open-telemetry/opentelemetry.io/pull/9390,merged,inline_comment,copilot-pull-request-reviewer,2026-03-12T11:00:02Z,content/ja/docs/collector/components/exporter.md,doc-content-accuracy,"The exporter list is inside a GENERATED block (ended at `<!-- END GENERATED: exporter-table -->`). Removing the `sapmexporter` row here is likely to be overwritten the next time `scripts/collector-sync` regenerates component tables, and may lead to recurring diffs/conflicts. If the intent is to drop `sapmexporter` from the table, it should be removed/filtered at the source used by the sync tooling (opentelemetry-ecosystem-explorer collector registry) or via the generator logic, then re-run the sync so all languages stay consistent.
+```suggestion
+| [rabbitmqexporter](https://github.com/open-telemetry/opentelemetry-collector-contrib/tree/main/exporter/rabbitmqexporter)                               | contrib                    | alpha        | alpha          | alpha       |
+| [sapmexporter](https://github.com/open-telemetry/opentelemetry-collector-contrib/tree/main/exporter/sapmexporter)                                       | contrib                    | deprecated   | -              | -           |
+```"
+9390,https://github.com/open-telemetry/opentelemetry.io/pull/9390,merged,review_commented,copilot-pull-request-reviewer,2026-03-12T11:00:03Z,,automated-review-summary,"## Pull request overview
+
+Removes SAPM/Splunk SAPM-related exporter entries from the site ecosystem registry and updates the Japanese Collector exporter component list to reflect the removal.
+
+**Changes:**
+- Deleted three registry YAML entries related to SAPM/Splunk SAPM exporters.
+- Updated `content/ja/docs/collector/components/exporter.md` to mark `default_lang_commit` as patched and removed the `sapmexporter` row from the exporter table.
+
+### Reviewed changes
+
+Copilot reviewed 4 out of 5 changed files in this pull request and generated 1 comment.
+
+| File | Description |
+| ---- | ----------- |
+| data/registry/collector-exporter-splunk-sapm.yml | Removes the Splunk SAPM Collector Exporter entry from the ecosystem registry. |
+| data/registry/collector-exporter-splunk-apm.yml | Removes the Splunk APM (SAPM) Exporter entry from the ecosystem registry. |
+| data/registry/collector-exporter-sapm.yml | Removes the SAPM Exporter entry from the ecosystem registry. |
+| content/ja/docs/collector/components/exporter.md | Marks the translation metadata as patched and removes `sapmexporter` from the Japanese exporter list. |
+
+
+
+
+
+---
+
+You can also share your feedback on Copilot code review. [Take the survey](https://www.surveymonkey.com/r/XP6L3XJ)."
+9391,https://github.com/open-telemetry/opentelemetry.io/pull/9391,merged,issue_comment,otelbot-docs,2026-03-12T12:13:18Z,,bot-status,✅ `fix:refcache` applied successfully in [run 23001123451](https://github.com/open-telemetry/opentelemetry.io/actions/runs/23001123451).
+9391,https://github.com/open-telemetry/opentelemetry.io/pull/9391,merged,inline_comment,copilot-pull-request-reviewer,2026-03-12T12:37:25Z,content/en/site/build/localization/_index.md,doc-content-accuracy,"`config/_default/module-template.yaml` uses a top-level `mounts:` key (not `module.mounts`). The guide’s wording here is likely to send maintainers to the wrong place/key; please update the text to reference the actual `mounts:` section in that file (and/or clarify that this template is rendered into `module.yaml`).
+```suggestion
+`LANG_ID` in [`config/_default/module-template.yaml`][] under the top-level
+`mounts:` section (this template is rendered into `module.yaml`).
+```"
+9391,https://github.com/open-telemetry/opentelemetry.io/pull/9391,merged,inline_comment,copilot-pull-request-reviewer,2026-03-12T12:37:26Z,content/en/site/build/localization/_index.md,doc-content-accuracy,"This page suggests inserting new locale blocks “in alphabetical order by language code”, but `config/_default/module-template.yaml` is not currently alphabetically ordered (e.g., the `pt` block appears after `zh`). Either adjust the guidance to match the repository’s current ordering convention, or (separately) reorder the mounts file and then keep the doc’s instruction.
+```suggestion
+Insert the new block alongside the existing locale blocks in
+`config/_default/module-template.yaml`, following the current ordering
+convention used in that file.
+```"
+9391,https://github.com/open-telemetry/opentelemetry.io/pull/9391,merged,inline_comment,copilot-pull-request-reviewer,2026-03-12T12:37:26Z,content/en/site/build/localization/_index.md,doc-content-accuracy,"The cspell section assumes the dictionary ID equals `LANG_ID` (e.g., `@cspell/dict-LANG_ID`), but this repo’s existing dictionaries are often region-specific (e.g., `@cspell/dict-es-es`, `@cspell/dict-pt-br`). Consider introducing a separate placeholder (like `DICT_ID`) and updating the `import:`/`dictionaries:` examples so maintainers don’t end up with a broken cspell config for languages that don’t map 1:1 to ISO 639-1."
+9391,https://github.com/open-telemetry/opentelemetry.io/pull/9391,merged,inline_comment,copilot-pull-request-reviewer,2026-03-12T12:37:26Z,content/en/site/build/localization/_index.md,doc-content-accuracy,"The suggested `.prettierignore` entry format here (`content/LANG_ID/**`) doesn’t match the patterns currently used in this repo’s `.prettierignore` (directory entries like `/content/bn`, `/content/ja`, etc.). Update the snippet (and/or wording) to follow the established format so maintainers copy/paste a consistent ignore rule.
+```suggestion
+right-to-left or use non-Latin characters — add an ignore entry to
+[`.prettierignore`][]:
+
+```sh
+/content/LANG_ID
+```"
+9391,https://github.com/open-telemetry/opentelemetry.io/pull/9391,merged,inline_comment,copilot-pull-request-reviewer,2026-03-12T12:37:26Z,content/en/site/build/localization/_index.md,doc-content-accuracy,"`projects/localization.md` currently lists supported languages at the top in alphabetical order by language code (bn, es, fr, …), not by English language name. Please update this instruction so it matches the actual ordering used in that file.
+```suggestion
+   order by language code:
+```"
+9391,https://github.com/open-telemetry/opentelemetry.io/pull/9391,merged,review_commented,copilot-pull-request-reviewer,2026-03-12T12:37:27Z,,automated-review-summary,"## Pull request overview
+
+Adds a maintainer-facing onboarding page that documents the concrete repo + GitHub-org steps required to bring up a new language localization on opentelemetry.io.
+
+**Changes:**
+- Adds a new “Localization setup” maintainer guide under `/site/build/localization/`.
+- Updates `static/refcache.json` with link-check cache entries for new references introduced by the doc.
+
+### Reviewed changes
+
+Copilot reviewed 2 out of 2 changed files in this pull request and generated 5 comments.
+
+| File | Description |
+| ---- | ----------- |
+| content/en/site/build/localization/_index.md | New step-by-step maintainer guide for adding a new localization (Hugo config, mounts, cspell, Prettier, GitHub automation, project tracking, verification). |
+| static/refcache.json | Refreshes link-check reference cache to include new URLs referenced by the added guide. |
+
+
+
+
+
+---
+
+You can also share your feedback on Copilot code review. [Take the survey](https://www.surveymonkey.com/r/XP6L3XJ)."
+9391,https://github.com/open-telemetry/opentelemetry.io/pull/9391,merged,review_approved,theletterf,2026-03-13T08:07:46Z,,approval-note,"This be could be an agentic skill, too! :D"
+9391,https://github.com/open-telemetry/opentelemetry.io/pull/9391,merged,inline_comment,copilot-pull-request-reviewer,2026-03-13T11:15:10Z,content/en/site/build/localization/_index.md,doc-content-accuracy,"The example import path assumes the cspell package is always `@cspell/dict-LANG_ID`. In this repo `.cspell.yml` uses region-specific dict packages/IDs for some locales (e.g. `@cspell/dict-es-es`, `@cspell/dict-pt-br`, `@cspell/dict-uk-ua`), so `LANG_ID` may not be sufficient. Consider introducing a separate placeholder for the chosen cspell package/dictionary ID and referencing that here."
+9391,https://github.com/open-telemetry/opentelemetry.io/pull/9391,merged,inline_comment,copilot-pull-request-reviewer,2026-03-13T11:15:10Z,content/en/site/build/localization/_index.md,doc-content-accuracy,"The Slack channel naming guidance (`#otel-localization-LANG_ID`) doesn’t match existing entries in `projects/localization.md` (e.g. `#otel-localization-ptbr`, `#otel-localization-zhcn`). As written, maintainers may create a channel name that’s inconsistent with the canonical registry you reference earlier. Consider updating this to either (a) recommend mirroring the slug used in `projects/localization.md` (which may be more specific than ISO 639-1), or (b) explicitly call out that some languages use a disambiguating suffix and should follow existing patterns."
+9391,https://github.com/open-telemetry/opentelemetry.io/pull/9391,merged,review_commented,copilot-pull-request-reviewer,2026-03-13T11:15:11Z,,automated-review-summary,"## Pull request overview
+
+Copilot reviewed 2 out of 2 changed files in this pull request and generated 4 comments.
+
+
+
+
+
+---
+
+You can also share your feedback on Copilot code review. [Take the survey](https://www.surveymonkey.com/r/XP6L3XJ)."
+9391,https://github.com/open-telemetry/opentelemetry.io/pull/9391,merged,inline_comment,copilot-pull-request-reviewer,2026-03-13T11:15:11Z,content/en/site/build/localization/_index.md,doc-content-accuracy,"In the `projects/localization.md` update example, the Slack channel link is written as a reference-style link with a literal URL in the second bracket (``[`#otel-localization-LANG_ID`][https://cloud-native.slack.com/archives/XXXXXXXXXXX]``). That won’t render correctly unless there’s a link reference definition whose label is that full URL. This should either be an inline link (`(... )`) or use the reference label you define later in step 4 (e.g. `...[otel-localization-LANG_ID]`)."
+9391,https://github.com/open-telemetry/opentelemetry.io/pull/9391,merged,inline_comment,copilot-pull-request-reviewer,2026-03-13T11:15:11Z,content/en/site/build/localization/_index.md,doc-content-accuracy,"The `dictionaries:` example activates `LANG_ID`, but in `.cspell.yml` the dictionary IDs often include region (e.g. `es-es`, `pt-br`, `uk-ua`). If a new locale uses a regional cspell dictionary package, following this example would enable a non-existent dictionary ID. Suggest documenting that the dictionary ID to add under `dictionaries:` must match the selected `@cspell/dict-*` package’s dictionary name (not necessarily ISO 639-1)."
+9391,https://github.com/open-telemetry/opentelemetry.io/pull/9391,merged,issue_comment,otelbot-docs,2026-03-13T12:07:47Z,,bot-status,✅ `fix:refcache` applied successfully in [run 23049842840](https://github.com/open-telemetry/opentelemetry.io/actions/runs/23049842840).
+9405,https://github.com/open-telemetry/opentelemetry.io/pull/9405,merged,review_approved,tiffany76,2026-03-15T00:03:58Z,,approval-note,Thanks!
+9405,https://github.com/open-telemetry/opentelemetry.io/pull/9405,merged,issue_comment,tiffany76,2026-03-15T00:06:31Z,,ci-fix-command,/fix:format
+9405,https://github.com/open-telemetry/opentelemetry.io/pull/9405,merged,issue_comment,otelbot-docs,2026-03-15T00:09:00Z,,bot-status,✅ `fix:format` applied successfully in [run 23099319288](https://github.com/open-telemetry/opentelemetry.io/actions/runs/23099319288).
+9405,https://github.com/open-telemetry/opentelemetry.io/pull/9405,merged,issue_comment,tiffany76,2026-03-15T00:10:30Z,,ci-fix-command,/fix:refcache
+9405,https://github.com/open-telemetry/opentelemetry.io/pull/9405,merged,issue_comment,otelbot-docs,2026-03-15T00:15:40Z,,bot-status,❌ `fix` failed or exited with a non-zero error code (0). See logs: https://github.com/open-telemetry/opentelemetry.io/actions/runs/23099310293
+9405,https://github.com/open-telemetry/opentelemetry.io/pull/9405,merged,issue_comment,otelbot-docs,2026-03-15T00:18:24Z,,bot-status,✅ `fix:refcache` applied successfully in [run 23099380922](https://github.com/open-telemetry/opentelemetry.io/actions/runs/23099380922).
+9405,https://github.com/open-telemetry/opentelemetry.io/pull/9405,merged,inline_comment,tiffany76,2026-03-15T00:37:32Z,data/registry/application-integration-js-deno.yml,description-quality,"```suggestion
+  OTLP, and supports custom instrumentation via the `@opentelemetry/api` npm
+```"
+9405,https://github.com/open-telemetry/opentelemetry.io/pull/9405,merged,issue_comment,tiffany76,2026-03-15T00:52:19Z,,process-workflow,"The branch name check is non-blocking, so I'll merge. Next time, please use a feature branch named something other than `main`. Thanks!"
+9409,https://github.com/open-telemetry/opentelemetry.io/pull/9409,merged,issue_comment,theletterf,2026-03-16T09:09:04Z,,ci-lint-request,@metafab Thanks! Could you address the linter issues?
+9409,https://github.com/open-telemetry/opentelemetry.io/pull/9409,merged,issue_comment,theletterf,2026-03-16T10:41:13Z,,ci-lint-request,"@metafab No worries, added that line for you."
+9409,https://github.com/open-telemetry/opentelemetry.io/pull/9409,merged,issue_comment,theletterf,2026-03-16T10:46:33Z,,ci-fix-command,/fix:refcache
+9409,https://github.com/open-telemetry/opentelemetry.io/pull/9409,merged,issue_comment,otelbot-docs,2026-03-16T10:54:17Z,,bot-status,✅ `fix:refcache` applied successfully in [run 23139853377](https://github.com/open-telemetry/opentelemetry.io/actions/runs/23139853377).
+9433,https://github.com/open-telemetry/opentelemetry.io/pull/9433,merged,review_commented,copilot-pull-request-reviewer,2026-03-17T10:27:35Z,,automated-review-summary,"## Pull request overview
+
+Removes a single ecosystem registry YAML entry as part of a purported “refcache refresh” maintenance update.
+
+**Changes:**
+- Deletes the `collector-receiver-k8slog.yml` registry entry (k8slog receiver).
+
+
+<details>
+<summary>Comments suppressed due to low confidence (1)</summary>
+
+**data/registry/collector-receiver-k8slog.yml:1**
+* This change deletes the entire `collector-receiver-k8slog.yml` registry entry, which appears unrelated to the stated goal of “Refresh refcache”. If the k8slog receiver is still a valid Collector component (it’s still referenced in `data/collector/receivers.yml` and docs), removing the registry entry will drop it from the ecosystem registry pages; consider restoring it or updating it instead. If the removal is intentional, please update the PR title/description to reflect that this PR also removes a registry entry (and confirm any other references are intentionally left as-is).
+</details>
+
+
+
+---
+
+You can also share your feedback on Copilot code review. [Take the survey](https://www.surveymonkey.com/r/XP6L3XJ)."
+9435,https://github.com/open-telemetry/opentelemetry.io/pull/9435,closed_unmerged,issue_comment,otelbot-docs,2026-03-17T14:26:29Z,,bot-status,✅ `fix:dict` applied successfully in [run 23199067568](https://github.com/open-telemetry/opentelemetry.io/actions/runs/23199067568).
+9435,https://github.com/open-telemetry/opentelemetry.io/pull/9435,closed_unmerged,issue_comment,otelbot-docs,2026-03-17T19:08:35Z,,bot-status,✅ `fix:refcache` applied successfully in [run 23211483753](https://github.com/open-telemetry/opentelemetry.io/actions/runs/23211483753).
+9435,https://github.com/open-telemetry/opentelemetry.io/pull/9435,closed_unmerged,inline_comment,theletterf,2026-03-24T15:09:25Z,content/en/blog/2026/otel-php-distro-donation-update.md,editorial-wording,"Adoption of OTel in PHP envs, or of PHP itself? It's unclear"
+9435,https://github.com/open-telemetry/opentelemetry.io/pull/9435,closed_unmerged,inline_comment,theletterf,2026-03-24T15:10:25Z,content/en/blog/2026/otel-php-distro-donation-update.md,editorial-wording,"> coexist
+
+How?"
+9435,https://github.com/open-telemetry/opentelemetry.io/pull/9435,closed_unmerged,review_approved,theletterf,2026-03-24T15:10:47Z,,approval-note,Couple nits!
+9435,https://github.com/open-telemetry/opentelemetry.io/pull/9435,closed_unmerged,inline_comment,alexandra5000,2026-03-24T20:17:42Z,content/en/blog/2026/otel-php-distro-donation-update.md,editorial-wording,"```suggestion
+OpenTelemetry provides a common observability standard…
+```
+I would suggest avoiding ""us"" - unclear who it's referring to. Implied yes, and I know what you mean here, but it's not 100% clear 🙂  
+
+I also agree with Fabri that ""environments with strict operational constraints"" sounds a bit vague."
+9435,https://github.com/open-telemetry/opentelemetry.io/pull/9435,closed_unmerged,inline_comment,alexandra5000,2026-03-24T20:19:18Z,content/en/blog/2026/otel-php-distro-donation-update.md,editorial-wording,Maybe “into a single deployment model” or “into a unified deployment approach”?
+9435,https://github.com/open-telemetry/opentelemetry.io/pull/9435,closed_unmerged,inline_comment,alexandra5000,2026-03-24T20:21:48Z,content/en/blog/2026/otel-php-distro-donation-update.md,editorial-wording,"```suggestion
+For teams running PHP `8.1` through `8.4`, this can reduce adoption overhead compared with custom build pipelines.
+```
+This is probably fine (considering the target audience), but ""adoption friction"" sounds a bit jargon-y to me and we could replace it with something more neutral (could also be something like ""can simplify adoption"")."
+9435,https://github.com/open-telemetry/opentelemetry.io/pull/9435,closed_unmerged,inline_comment,alexandra5000,2026-03-24T20:24:16Z,content/en/blog/2026/otel-php-distro-donation-update.md,editorial-wording,"I think ""composer-based"" is a more common phrasing."
+9435,https://github.com/open-telemetry/opentelemetry.io/pull/9435,closed_unmerged,inline_comment,alexandra5000,2026-03-24T20:24:35Z,content/en/blog/2026/otel-php-distro-donation-update.md,editorial-wording,"```suggestion
+Before broad production rollout, validate the following:
+```"
+9435,https://github.com/open-telemetry/opentelemetry.io/pull/9435,closed_unmerged,inline_comment,alexandra5000,2026-03-24T20:25:36Z,content/en/blog/2026/otel-php-distro-donation-update.md,editorial-wording,"```suggestion
+- Ongoing alignment between upstream OpenTelemetry distro work and vendor distributions built on top of it.
+```"
+9435,https://github.com/open-telemetry/opentelemetry.io/pull/9435,closed_unmerged,inline_comment,alexandra5000,2026-03-24T20:26:50Z,content/en/blog/2026/otel-php-distro-donation-update.md,editorial-wording,"```suggestion
+- Report installation and runtime issues in
+  [`opentelemetry-php-distro` repository](https://github.com/open-telemetry/opentelemetry-php-distro).
+```"
+9435,https://github.com/open-telemetry/opentelemetry.io/pull/9435,closed_unmerged,review_commented,alexandra5000,2026-03-24T20:28:08Z,,approval-note,"Nice! It's clear and well-structured. I left some comments for your consideration, nothing major so feel free to ignore/apply as you like."
+9435,https://github.com/open-telemetry/opentelemetry.io/pull/9435,closed_unmerged,issue_comment,svrnm,2026-03-26T09:26:34Z,,process-workflow,"@intuibase the PR is still in draft state, can you make it ""ready for review"" so we can publish it eventually?"
+9435,https://github.com/open-telemetry/opentelemetry.io/pull/9435,closed_unmerged,issue_comment,otelbot-docs,2026-04-02T10:00:51Z,,bot-status,✅ `fix:format` applied successfully in [run 23894938972](https://github.com/open-telemetry/opentelemetry.io/actions/runs/23894938972).
+9435,https://github.com/open-telemetry/opentelemetry.io/pull/9435,closed_unmerged,issue_comment,tiffany76,2026-04-07T16:55:28Z,,process-workflow,"@alexandra5000, we'll need you to sign the CLA before we can move forward with the post as-is. Thanks."
+9446,https://github.com/open-telemetry/opentelemetry.io/pull/9446,merged,review_commented,copilot-pull-request-reviewer,2026-03-18T10:56:01Z,,automated-review-summary,"## Pull request overview
+
+This PR is intended to refresh/prune the website link refcache, but the diff shown removes two registry entries under `data/registry/`, which appears unrelated to a refcache refresh and could unintentionally drop items from the registry.
+
+**Changes:**
+- Deletes the `instrumentation-python-boto` registry entry.
+- Deletes the `collector-processor-datadogsemantics` registry entry.
+
+### Reviewed changes
+
+Copilot reviewed 2 out of 3 changed files in this pull request and generated no comments.
+
+| File | Description |
+| ---- | ----------- |
+| `data/registry/instrumentation-python-boto.yml` | Removes the registry entry for the Python Boto instrumentation. |
+| `data/registry/collector-processor-datadogsemantics.yml` | Removes the registry entry for the Datadog semantics processor component. |
+
+
+<details>
+<summary>Comments suppressed due to low confidence (2)</summary>
+
+**data/registry/instrumentation-python-boto.yml:1**
+* This PR is titled/described as a refcache refresh, but this change deletes the entire registry entry for the Python Boto instrumentation. If this deletion is intentional (e.g., upstream instrumentation removed or URL is dead), please update the PR description to call out the registry pruning and ideally link to the upstream removal/404 evidence; otherwise, restore this file so the refcache refresh PR stays scoped to refcache updates.
+**data/registry/collector-processor-datadogsemantics.yml:1**
+* This PR is titled/described as a refcache refresh, but this change deletes the entire `collector-processor-datadogsemantics` registry entry. If the underlying collector component was removed/renamed upstream, please update the PR description with that rationale (and/or replace this entry with the new canonical one). If it still exists, this file should not be deleted as part of a refcache refresh.
+</details>
+
+
+
+---
+
+You can also share your feedback on Copilot code review. [Take the survey](https://www.surveymonkey.com/r/XP6L3XJ)."
+9486,https://github.com/open-telemetry/opentelemetry.io/pull/9486,closed_unmerged,issue_comment,vitorvasc,2026-03-24T08:52:04Z,,process-workflow,"Thanks!
+
+I see the checks are failing due to the branch name. Could you please take a look at that and open a new PR using a branch name other than `main`?"
+9488,https://github.com/open-telemetry/opentelemetry.io/pull/9488,merged,issue_comment,otelbot-docs,2026-03-24T11:00:21Z,,bot-status,✅ `fix:refcache` applied successfully in [run 23485728615](https://github.com/open-telemetry/opentelemetry.io/actions/runs/23485728615).
+9488,https://github.com/open-telemetry/opentelemetry.io/pull/9488,merged,inline_comment,vitorvasc,2026-03-24T12:45:55Z,data/registry/instrumentation-php-symfony-traceway.yml,spelling-cspell,"```suggestion
+# cSpell:ignore Traceway
+title: Traceway OpenTelemetry Symfony Bundle
+```"
+9488,https://github.com/open-telemetry/opentelemetry.io/pull/9488,merged,issue_comment,vitorvasc,2026-03-24T12:46:07Z,,ci-fix-command,/fix:format
+9488,https://github.com/open-telemetry/opentelemetry.io/pull/9488,merged,issue_comment,otelbot-docs,2026-03-24T12:48:37Z,,bot-status,✅ `fix:format` applied successfully in [run 23490126281](https://github.com/open-telemetry/opentelemetry.io/actions/runs/23490126281).
+9488,https://github.com/open-telemetry/opentelemetry.io/pull/9488,merged,inline_comment,vitorvasc,2026-03-24T14:50:09Z,data/registry/instrumentation-php-symfony-traceway.yml,spelling-cspell,"```suggestion
+# cSpell:ignore Traceway traceway
+```"
+9488,https://github.com/open-telemetry/opentelemetry.io/pull/9488,merged,review_approved,vitorvasc,2026-03-24T14:58:08Z,,approval-note,Thanks!
+9496,https://github.com/open-telemetry/opentelemetry.io/pull/9496,merged,issue_comment,vitorvasc,2026-03-25T14:20:12Z,,ci-fix-command,/fix:refcache
+9496,https://github.com/open-telemetry/opentelemetry.io/pull/9496,merged,issue_comment,otelbot-docs,2026-03-25T14:28:25Z,,bot-status,✅ `fix:refcache` applied successfully in [run 23545869378](https://github.com/open-telemetry/opentelemetry.io/actions/runs/23545869378).
+9498,https://github.com/open-telemetry/opentelemetry.io/pull/9498,merged,review_commented,copilot-pull-request-reviewer,2026-04-09T18:29:42Z,,automated-review-summary,"## Pull request overview
+
+This PR is titled/described as a refcache refresh, but the diff provided shows a registry entry removal instead of updates to `static/refcache.json`.
+
+**Changes:**
+- Removes the `data/registry/instrumentation-js-fastify.yml` entry (previously listing `@opentelemetry/instrumentation-fastify`).
+
+
+<details>
+<summary>Comments suppressed due to low confidence (1)</summary>
+
+**data/registry/instrumentation-js-fastify.yml:1**
+* This PR is titled/described as a refcache refresh, but it deletes the `instrumentation-js-fastify` registry entry (for `@opentelemetry/instrumentation-fastify`) without adding a replacement. If this deletion is intentional (e.g., deprecating that package in favor of `@fastify/otel`), please update the PR description accordingly; otherwise, restore the registry YAML so the instrumentation remains listed.
+</details>"
+9499,https://github.com/open-telemetry/opentelemetry.io/pull/9499,merged,issue_comment,vitorvasc,2026-03-26T10:24:33Z,,ci-fix-command,/fix:refcache
+9499,https://github.com/open-telemetry/opentelemetry.io/pull/9499,merged,issue_comment,otelbot-docs,2026-03-26T10:32:27Z,,bot-status,✅ `fix:refcache` applied successfully in [run 23589364637](https://github.com/open-telemetry/opentelemetry.io/actions/runs/23589364637).
+9499,https://github.com/open-telemetry/opentelemetry.io/pull/9499,merged,inline_comment,vitorvasc,2026-03-26T16:02:59Z,data/registry/collector-exporter-exportercreator.yml,registry-metadata,"```suggestion
+title: Exporter Creator
+registryType: exporter
+language: collector
+tags:
+  - exporter
+  - dynamic
+urls:
+  repo: https://github.com/stuart23/exportercreator
+license: Apache 2.0
+description:
+  A collector plugin that dynamically creates exporters at runtime based on
+  observed endpoints.
+authors:
+  - name: Stuart Buckingham
+    url: https://github.com/stuart23
+createdAt: '2026-03-25'
+isNative: false
+isFirstParty: false
+```"
+9508,https://github.com/open-telemetry/opentelemetry.io/pull/9508,merged,review_commented,copilot-pull-request-reviewer,2026-03-26T17:03:48Z,,automated-review-summary,"## Pull request overview
+
+Adds missing OpenTelemetry Registry entries for components present in upstream Collector and language contrib repositories, and updates tooling/schema to recognize a new Collector “connector” registry type.
+
+**Changes:**
+- Added `connector` to the registry schema’s `registryType` enum.
+- Updated `registry-scanner` to scan Collector connectors in addition to existing component types.
+- Added many new `data/registry/*.yml` entries for Collector components and language contrib components.
+
+### Reviewed changes
+
+Copilot reviewed 93 out of 93 changed files in this pull request and generated 1 comment.
+
+<details>
+<summary>Show a summary per file</summary>
+
+| File | Description |
+| ---- | ----------- |
+| scripts/registry-scanner/index.mjs | Extends Collector scanning to include connectors. |
+| data/registry-schema.json | Adds `connector` as an allowed `registryType`. |
+| data/registry/tools-js-sampler-aws-xray.yml | Adds JS utilities registry entry for AWS X-Ray sampler. |
+| data/registry/tools-js-propagator-ot-trace.yml | Adds JS utilities registry entry for OT trace propagator. |
+| data/registry/tools-js-propagator-instana.yml | Adds JS utilities registry entry for Instana propagator. |
+| data/registry/tools-js-propagator-aws-xray.yml | Adds JS utilities registry entry for AWS X-Ray propagator. |
+| data/registry/tools-js-propagator-aws-xray-lambda.yml | Adds JS utilities registry entry for AWS X-Ray Lambda propagator. |
+| data/registry/tools-js-id-generator-aws-xray.yml | Adds JS utilities registry entry for AWS X-Ray ID generator. |
+| data/registry/tools-js-baggage-span-processor.yml | Adds JS utilities registry entry for baggage span processor. |
+| data/registry/tools-js-baggage-log-record-processor.yml | Adds JS utilities registry entry for baggage log record processor. |
+| data/registry/instrumentation-ruby-net-ldap.yml | Adds Ruby instrumentation registry entry for net-ldap. |
+| data/registry/instrumentation-ruby-grpc.yml | Adds Ruby instrumentation registry entry for grpc. |
+| data/registry/instrumentation-ruby-factory-bot.yml | Adds Ruby instrumentation registry entry for factory_bot. |
+| data/registry/instrumentation-ruby-anthropic.yml | Adds Ruby instrumentation registry entry for anthropic. |
+| data/registry/instrumentation-ruby-active-storage.yml | Adds Ruby instrumentation registry entry for active_storage. |
+| data/registry/instrumentation-python-pymssql.yml | Adds Python instrumentation registry entry for pymssql. |
+| data/registry/instrumentation-python-click.yml | Adds Python instrumentation registry entry for click. |
+| data/registry/instrumentation-python-asyncclick.yml | Adds Python instrumentation registry entry for asyncclick. |
+| data/registry/instrumentation-php-reactphp.yml | Adds PHP instrumentation registry entry for ReactPHP. |
+| data/registry/instrumentation-php-postgresql.yml | Adds PHP instrumentation registry entry for PostgreSQL. |
+| data/registry/instrumentation-php-mysqli.yml | Adds PHP instrumentation registry entry for MySqli. |
+| data/registry/instrumentation-php-httpconfig.yml | Adds PHP instrumentation registry entry for HttpConfig. |
+| data/registry/instrumentation-php-doctrine.yml | Adds PHP instrumentation registry entry for Doctrine. |
+| data/registry/instrumentation-php-awssdk.yml | Adds PHP instrumentation registry entry for AwsSdk. |
+| data/registry/instrumentation-js-web-exception.yml | Adds JS instrumentation registry entry for web-exception. |
+| data/registry/instrumentation-js-host-metrics.yml | Adds JS instrumentation registry entry for host-metrics. |
+| data/registry/instrumentation-js-browser-navigation.yml | Adds JS instrumentation registry entry for browser-navigation. |
+| data/registry/instrumentation-java-openai.yml | Adds Java instrumentation registry entry for OpenAI. |
+| data/registry/instrumentation-java-nats.yml | Adds Java instrumentation registry entry for NATS. |
+| data/registry/instrumentation-java-jfinal.yml | Adds Java instrumentation registry entry for JFinal. |
+| data/registry/instrumentation-java-iceberg.yml | Adds Java instrumentation registry entry for Apache Iceberg. |
+| data/registry/instrumentation-java-helidon.yml | Adds Java instrumentation registry entry for Helidon. |
+| data/registry/instrumentation-java-failsafe.yml | Adds Java instrumentation registry entry for Failsafe. |
+| data/registry/instrumentation-java-clickhouse.yml | Adds Java instrumentation registry entry for ClickHouse. |
+| data/registry/instrumentation-java-avajejex.yml | Adds Java instrumentation registry entry for Avaje Jex. |
+| data/registry/instrumentation-java-apacheelasticjob.yml | Adds Java instrumentation registry entry for Apache ElasticJob. |
+| data/registry/instrumentation-java-activejhttp.yml | Adds Java instrumentation registry entry for ActiveJ HTTP. |
+| data/registry/instrumentation-erlang-commanded.yml | Adds Erlang instrumentation registry entry for commanded. |
+| data/registry/instrumentation-dotnet-servicefabricremoting.yml | Adds .NET instrumentation registry entry for ServiceFabricRemoting. |
+| data/registry/instrumentation-dotnet-remoting.yml | Adds .NET instrumentation registry entry for Remoting. |
+| data/registry/exporter-python-richconsole.yml | Adds Python exporter registry entry for richconsole. |
+| data/registry/exporter-python-prometheus-remote-write.yml | Adds Python exporter registry entry for Prometheus remote write. |
+| data/registry/exporter-python-credential-provider-gcp.yml | Adds Python exporter registry entry for GCP credential provider. |
+| data/registry/collector-receiver-yanggrpc.yml | Adds Collector receiver registry entry for yanggrpc. |
+| data/registry/collector-receiver-vcr.yml | Adds Collector receiver registry entry for vcr. |
+| data/registry/collector-receiver-redfish.yml | Adds Collector receiver registry entry for redfish. |
+| data/registry/collector-receiver-macosunifiedlogging.yml | Adds Collector receiver registry entry for macosunifiedlogging. |
+| data/registry/collector-receiver-k8slog.yml | Adds Collector receiver registry entry for k8slog. |
+| data/registry/collector-receiver-icmpcheck.yml | Adds Collector receiver registry entry for icmpcheck. |
+| data/registry/collector-receiver-googlecloudpubsubpush.yml | Adds Collector receiver registry entry for googlecloudpubsubpush. |
+| data/registry/collector-receiver-ciscoos.yml | Adds Collector receiver registry entry for ciscoos. |
+| data/registry/collector-receiver-awslambda.yml | Adds Collector receiver registry entry for awslambda. |
+| data/registry/collector-processor-unroll.yml | Adds Collector processor registry entry for unroll. |
+| data/registry/collector-processor-lookup.yml | Adds Collector processor registry entry for lookup. |
+| data/registry/collector-processor-datadogsemantics.yml | Adds Collector processor registry entry for datadogsemantics. |
+| data/registry/collector-extension-zipkinencoding.yml | Adds Collector extension registry entry for zipkinencoding. |
+| data/registry/collector-extension-textencoding.yml | Adds Collector extension registry entry for textencoding. |
+| data/registry/collector-extension-skywalkingencoding.yml | Adds Collector extension registry entry for skywalkingencoding. |
+| data/registry/collector-extension-redisstorage.yml | Adds Collector extension registry entry for redisstorage. |
+| data/registry/collector-extension-otlpencoding.yml | Adds Collector extension registry entry for otlpencoding. |
+| data/registry/collector-extension-kafkatopicsobserver.yml | Adds Collector extension registry entry for kafkatopicsobserver. |
+| data/registry/collector-extension-k8sobserver.yml | Adds Collector extension registry entry for k8sobserver. |
+| data/registry/collector-extension-k8sleaderelector.yml | Adds Collector extension registry entry for k8sleaderelector. |
+| data/registry/collector-extension-jsonlogencoding.yml | Adds Collector extension registry entry for jsonlogencoding. |
+| data/registry/collector-extension-jaegerencoding.yml | Adds Collector extension registry entry for jaegerencoding. |
+| data/registry/collector-extension-hostobserver.yml | Adds Collector extension registry entry for hostobserver. |
+| data/registry/collector-extension-googlecloudlogentryencoding.yml | Adds Collector extension registry entry for googlecloudlogentryencoding. |
+| data/registry/collector-extension-filestorage.yml | Adds Collector extension registry entry for filestorage. |
+| data/registry/collector-extension-ecsobserver.yml | Adds Collector extension registry entry for ecsobserver. |
+| data/registry/collector-extension-dockerobserver.yml | Adds Collector extension registry entry for dockerobserver. |
+| data/registry/collector-extension-dbstorage.yml | Adds Collector extension registry entry for dbstorage. |
+| data/registry/collector-extension-cfgardenobserver.yml | Adds Collector extension registry entry for cfgardenobserver. |
+| data/registry/collector-extension-azureencoding.yml | Adds Collector extension registry entry for azureencoding. |
+| data/registry/collector-extension-awsproxy.yml | Adds Collector extension registry entry for awsproxy. |
+| data/registry/collector-extension-awslogsencoding.yml | Adds Collector extension registry entry for awslogsencoding. |
+| data/registry/collector-extension-awscloudwatchmetricstreamsencoding.yml | Adds Collector extension registry entry for awscloudwatchmetricstreamsencoding. |
+| data/registry/collector-extension-avrologencoding.yml | Adds Collector extension registry entry for avrologencoding. |
+| data/registry/collector-exporter-sapm.yml | Adds Collector exporter registry entry for sapm. |
+| data/registry/collector-exporter-googlecloudstorage.yml | Adds Collector exporter registry entry for googlecloudstorage. |
+| data/registry/collector-connector-sum.yml | Adds Collector connector registry entry for sum. |
+| data/registry/collector-connector-spanmetrics.yml | Adds Collector connector registry entry for spanmetrics. |
+| data/registry/collector-connector-slowsql.yml | Adds Collector connector registry entry for slowsql. |
+| data/registry/collector-connector-signaltometrics.yml | Adds Collector connector registry entry for signaltometrics. |
+| data/registry/collector-connector-servicegraph.yml | Adds Collector connector registry entry for servicegraph. |
+| data/registry/collector-connector-routing.yml | Adds Collector connector registry entry for routing. |
+| data/registry/collector-connector-roundrobin.yml | Adds Collector connector registry entry for roundrobin. |
+| data/registry/collector-connector-otlpjson.yml | Adds Collector connector registry entry for otlpjson. |
+| data/registry/collector-connector-metricsaslogs.yml | Adds Collector connector registry entry for metricsaslogs. |
+| data/registry/collector-connector-grafanacloud.yml | Adds Collector connector registry entry for grafanacloud. |
+| data/registry/collector-connector-forward.yml | Adds Collector connector registry entry for forward. |
+| data/registry/collector-connector-failover.yml | Adds Collector connector registry entry for failover. |
+| data/registry/collector-connector-exceptions.yml | Adds Collector connector registry entry for exceptions. |
+| data/registry/collector-connector-count.yml | Adds Collector connector registry entry for count. |
+</details>
+
+
+
+<details>
+<summary>Comments suppressed due to low confidence (5)</summary>
+
+**scripts/registry-scanner/index.mjs:1**
+* Using `Array.prototype.forEach` with an `async` callback does not await the resulting promises. If `scanCollectorComponent` is async (as implied), the scanner can exit before scans complete and/or drop errors. Prefer `await Promise.all([...].map(...))` or a `for...of` loop with `await` to ensure deterministic completion and proper error propagation.
+**data/registry/tools-js-propagator-ot-trace.yml:1**
+* The `description` is clearly truncated/incomplete, which will surface as broken text in registry consumers. Please replace with a complete, standalone sentence/summary (and consider updating the generation step to avoid cutting off descriptions mid-sentence across the new entries).
+**data/registry/instrumentation-dotnet-remoting.yml:1**
+* This description appears truncated mid-markdown/link, which will render poorly and reads as incomplete. Please replace it with a complete summary (ideally plain text without an unfinished markdown fragment).
+**data/registry/instrumentation-js-host-metrics.yml:1**
+* Many newly added entries point to repositories under the `open-telemetry` GitHub organization but are marked `isFirstParty: false`. If `isFirstParty` is intended to represent OpenTelemetry-maintained/official projects, these should likely be `true` (or omitted if the schema defines a default). Please align `isFirstParty` values with the project’s definition and existing registry entries for official OpenTelemetry repos.
+**data/registry/collector-processor-datadogsemantics.yml:1**
+* The title reads like a concatenated identifier rather than a user-facing name. Consider using consistent spacing/capitalization (e.g., “Datadog Semantics Processor”) to match how other registry titles are presented to users.
+</details>"
+9508,https://github.com/open-telemetry/opentelemetry.io/pull/9508,merged,inline_comment,copilot-pull-request-reviewer,2026-03-26T17:03:48Z,data/registry/collector-extension-googlecloudlogentryencoding.yml,spelling-cspell,"Correct spelling of 'unmarshall' to 'unmarshal'.
+```suggestion
+description: This extension can be used to unmarshal a [Cloud Logging LogEntry](https://cloud.google.com/logging/docs/reference/v2/rest/v2/LogEntry) message type.
+```"
+9508,https://github.com/open-telemetry/opentelemetry.io/pull/9508,merged,issue_comment,otelbot-docs,2026-03-26T17:20:35Z,,bot-status,✅ `fix:refcache` applied successfully in [run 23607170013](https://github.com/open-telemetry/opentelemetry.io/actions/runs/23607170013).
+9508,https://github.com/open-telemetry/opentelemetry.io/pull/9508,merged,inline_comment,jaydeluca,2026-04-02T11:31:18Z,data/registry/instrumentation-java-apacheelasticjob.yml,registry-metadata,"```suggestion
+title: Apache ElasticJob instrumentation
+```"
+9508,https://github.com/open-telemetry/opentelemetry.io/pull/9508,merged,inline_comment,copilot-pull-request-reviewer,2026-04-02T11:40:35Z,data/registry/collector-extension-azureencoding.yml,broken-link,"The Markdown link in the description is malformed: the URL is truncated (contains ""...""), and the closing "")"" is missing. This will render incorrectly and may fail markdown/link checks. Please replace it with the full Azure Diagnostic Settings Export URL and ensure the link is properly closed.
+```suggestion
+  Export](https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/diagnostic-settings?tabs=portal)
+```"
+9508,https://github.com/open-telemetry/opentelemetry.io/pull/9508,merged,inline_comment,copilot-pull-request-reviewer,2026-04-02T11:40:35Z,data/registry/collector-connector-exceptions.yml,broken-link,"These descriptions link to `exceptions-spans.md/` (note the trailing slash after `.md`). This is an incorrect GitHub URL and may redirect or break link checking. Please remove the trailing slash so the link points directly to the Markdown file.
+```suggestion
+  exceptions](https://github.com/open-telemetry/semantic-conventions/blob/main/docs/exceptions/exceptions-spans.md)
+```"
+9508,https://github.com/open-telemetry/opentelemetry.io/pull/9508,merged,inline_comment,copilot-pull-request-reviewer,2026-04-02T11:40:35Z,data/registry/collector-connector-slowsql.yml,broken-link,"These descriptions link to `exceptions-spans.md/` (note the trailing slash after `.md`). This is an incorrect GitHub URL and may redirect or break link checking. Please remove the trailing slash so the link points directly to the Markdown file.
+```suggestion
+  statement](https://github.com/open-telemetry/semantic-conventions/blob/main/docs/exceptions/exceptions-spans.md)
+```"
+9508,https://github.com/open-telemetry/opentelemetry.io/pull/9508,merged,inline_comment,copilot-pull-request-reviewer,2026-04-02T11:40:36Z,data/registry/tools-js-propagator-ot-trace.yml,description-quality,"The description is an incomplete sentence (ends with ""In order to.""). Since this is user-facing registry content, please replace it with a complete, meaningful one-line description of what the propagator does."
+9508,https://github.com/open-telemetry/opentelemetry.io/pull/9508,merged,inline_comment,copilot-pull-request-reviewer,2026-04-02T11:40:36Z,data/registry/instrumentation-js-host-metrics.yml,description-quality,"The description appears truncated (ends with ""metrics for:.""). Please update it to a complete sentence (and remove the stray "":.""), so the registry entry renders cleanly."
+9508,https://github.com/open-telemetry/opentelemetry.io/pull/9508,merged,inline_comment,copilot-pull-request-reviewer,2026-04-02T11:40:36Z,data/registry/instrumentation-js-browser-navigation.yml,description-quality,"The description appears truncated (ends with ""represent:.""). Please update it to a complete sentence (and remove the stray "":.""), so the registry entry renders cleanly."
+9508,https://github.com/open-telemetry/opentelemetry.io/pull/9508,merged,inline_comment,copilot-pull-request-reviewer,2026-04-02T11:40:36Z,data/registry/tools-js-id-generator-aws-xray.yml,description-quality,"The description is truncated/incomplete (ends with ""start time of the.""). Please replace it with a complete sentence describing how the ID generator formats trace IDs for X-Ray."
+9508,https://github.com/open-telemetry/opentelemetry.io/pull/9508,merged,inline_comment,copilot-pull-request-reviewer,2026-04-02T11:40:36Z,data/registry/instrumentation-dotnet-servicefabricremoting.yml,description-quality,"The description text has stray punctuation and reads incomplete (""This is an Instrumentation Library,.""). Please replace it with a complete description of what the ServiceFabricRemoting instrumentation captures/does."
+9508,https://github.com/open-telemetry/opentelemetry.io/pull/9508,merged,review_commented,copilot-pull-request-reviewer,2026-04-02T11:40:37Z,,automated-review-summary,"## Pull request overview
+
+Copilot reviewed 90 out of 90 changed files in this pull request and generated 11 comments."
+9508,https://github.com/open-telemetry/opentelemetry.io/pull/9508,merged,inline_comment,copilot-pull-request-reviewer,2026-04-02T11:40:37Z,scripts/registry-scanner/index.mjs,code-quality,"`Array.forEach(async ...)` does not await the async callbacks. Here that means collector scans (now including connectors) run without any awaiting/coordination, which can lead to unhandled errors and makes completion timing nondeterministic. Consider returning/awaiting a `Promise.all([...].map(scanCollectorComponent))` or using a `for...of` loop with `await` for predictable execution (and to better control GitHub API usage)."
+9508,https://github.com/open-telemetry/opentelemetry.io/pull/9508,merged,inline_comment,copilot-pull-request-reviewer,2026-04-02T11:40:37Z,data/registry/collector-extension-awslogsencoding.yml,spelling-cspell,"Spelling: ""unmarshalls"" is being introduced and added to `cSpell:ignore`. Please change it to ""unmarshals"" (in the description) and remove the cSpell ignore for the misspelling."
+9508,https://github.com/open-telemetry/opentelemetry.io/pull/9508,merged,inline_comment,copilot-pull-request-reviewer,2026-04-02T11:40:37Z,data/registry/collector-extension-awscloudwatchmetricstreamsencoding.yml,spelling-cspell,"Spelling: ""unmarshalls"" is being introduced and added to `cSpell:ignore`. Please change it to ""unmarshals"" (in the description) and remove the cSpell ignore for the misspelling."
+9508,https://github.com/open-telemetry/opentelemetry.io/pull/9508,merged,issue_comment,otelbot-docs,2026-04-02T12:32:54Z,,bot-status,✅ `fix:refcache` applied successfully in [run 23900232763](https://github.com/open-telemetry/opentelemetry.io/actions/runs/23900232763).
+9508,https://github.com/open-telemetry/opentelemetry.io/pull/9508,merged,review_commented,chalin,2026-04-02T19:50:12Z,,rendering-issue,"Hmm, somehow this PR caused ~100 of blank lines to be added to the generated HTML:
+
+<img width=""1078"" height=""1442"" alt=""Image"" src=""https://github.com/user-attachments/assets/8a74815e-6399-4573-8452-e05ac0bb07ef"" />
+
+I can't see any changes made here that would explain that, so the extra padding must be added by the original template. Taking note so we can examine that later."
+9579,https://github.com/open-telemetry/opentelemetry.io/pull/9579,merged,issue_comment,otelbot-docs,2026-04-06T13:55:01Z,,bot-status,✅ `fix:refcache` applied successfully in [run 24034314102](https://github.com/open-telemetry/opentelemetry.io/actions/runs/24034314102).
+9593,https://github.com/open-telemetry/opentelemetry.io/pull/9593,closed_unmerged,inline_comment,copilot-pull-request-reviewer,2026-04-07T03:53:14Z,data/registry/extension-java-auth-gcp.yml,editorial-wording,"The phrase ""for both auto and manual instrumentation setups"" is grammatically ambiguous because ""auto"" is missing its noun. Consider changing this to ""automatic and manual instrumentation setups"" or ""auto instrumentation and manual instrumentation setups"" for clarity."
+9593,https://github.com/open-telemetry/opentelemetry.io/pull/9593,closed_unmerged,inline_comment,copilot-pull-request-reviewer,2026-04-07T03:53:15Z,content/en/docs/concepts/components.md,doc-content-accuracy,"The top-level component list now nests ""Auto Instrumentation"" under ""Manual Instrumentation"", which implies auto instrumentation is a subset of manual instrumentation. To avoid a misleading hierarchy, consider renaming the parent section to something neutral (e.g., ""Language APIs & SDKs"" / ""Language SDKs"") or splitting manual vs auto into sibling sections.
+```suggestion
+  - [Resource Detectors](#resource-detectors)
+  - [Cross Service Propagators](#cross-service-propagators)
+  - [Samplers](#samplers)
+- [Auto Instrumentation](#auto-instrumentation)
+```"
+9593,https://github.com/open-telemetry/opentelemetry.io/pull/9593,closed_unmerged,inline_comment,copilot-pull-request-reviewer,2026-04-07T03:53:15Z,content/zh/docs/concepts/components.md,doc-content-accuracy,这里的组件列表把“自动插桩”放在“手动插桩”之下，容易让读者误解为自动插桩是手动插桩的子集。建议将父级标题改为更中性的名称（例如“语言 API & SDK 实现”），或将手动/自动插桩拆分为同级章节以避免层级含义错误。
+9593,https://github.com/open-telemetry/opentelemetry.io/pull/9593,closed_unmerged,inline_comment,copilot-pull-request-reviewer,2026-04-07T03:53:15Z,content/en/docs/languages/java/instrumentation.md,doc-content-accuracy,"This section renames the categories to ""Auto:"" but the subsequent section headings and prose still use ""Zero-code"" (e.g., ""### Zero-code: Java agent"" and ""a form of zero-code""). For consistency and to avoid confusing readers, update the later headings/text to match the new ""Auto"" terminology (or keep ""Zero-code"" consistently throughout)."
+9593,https://github.com/open-telemetry/opentelemetry.io/pull/9593,closed_unmerged,inline_comment,copilot-pull-request-reviewer,2026-04-07T03:53:15Z,content/en/docs/contributing/sig-practices.md,editorial-wording,"""auto instrumentations"" is awkward here since ""instrumentation"" is typically uncountable in this context. Consider rephrasing to ""auto instrumentation"" / ""auto-instrumentation"" or ""auto-instrumentation projects"" to improve readability.
+```suggestion
+- PRs that auto-update the versions of SDKs, auto-instrumentation projects, or
+  the collector can be approved and merged except the corresponding SIG signals
+  that merging should be postponed.
+```"
+9593,https://github.com/open-telemetry/opentelemetry.io/pull/9593,closed_unmerged,review_commented,copilot-pull-request-reviewer,2026-04-07T03:53:16Z,,automated-review-summary,"## Pull request overview
+
+This PR updates site and registry terminology to better distinguish **manual instrumentation** from **auto instrumentation**, replacing many instances of “zero-code” wording across multiple languages.
+
+**Changes:**
+- Replace “zero-code” terminology with “auto instrumentation” (and equivalents in translations) across docs, index pages, and references.
+- Re-label “Language APIs & SDKs”/instrumentation navigation and status content to explicitly call out manual vs auto instrumentation.
+- Add short guidance notes in some language instrumentation pages linking manual instrumentation to auto instrumentation entry points.
+
+### Reviewed changes
+
+Copilot reviewed 59 out of 59 changed files in this pull request and generated 6 comments.
+
+<details>
+<summary>Show a summary per file</summary>
+
+| File | Description |
+| ---- | ----------- |
+| data/registry/tools-shell-otelifysh.yml | Update registry tags/description from “zero-code” to “auto instrumentation”. |
+| data/registry/extension-java-auth-gcp.yml | Update extension description wording to refer to auto/manual setups. |
+| content/zh/docs/zero-code/php.md | Rename Chinese page title to “自动插桩”. |
+| content/zh/docs/zero-code/js/configuration.md | Rename Chinese page title/description to “自动插桩”. |
+| content/zh/docs/zero-code/js/_index.md | Rename Chinese JS zero-code overview wording to auto instrumentation. |
+| content/zh/docs/zero-code/java/spring-boot-starter/getting-started.md | Update link text to “Java 自动插桩”. |
+| content/zh/docs/zero-code/java/agent/_index.md | Update Chinese Java agent intro wording to auto instrumentation. |
+| content/zh/docs/zero-code/java/_index.md | Rename Chinese Java zero-code landing title/body to auto instrumentation. |
+| content/zh/docs/zero-code/_index.md | Rename Chinese zero-code section index to auto instrumentation and update reference labels. |
+| content/zh/docs/languages/java/intro.md | Update Chinese Java intro to refer to auto instrumentation types. |
+| content/zh/docs/languages/java/instrumentation.md | Update Chinese Java instrumentation taxonomy/headings from zero-code to auto instrumentation. |
+| content/zh/docs/languages/java/getting-started.md | Update link text to try auto instrumentation. |
+| content/zh/docs/languages/go/instrumentation.md | Add note connecting manual instrumentation with auto instrumentation entry point. |
+| content/zh/docs/languages/_index.md | Retitle Chinese languages index to “手动插桩” and update mentions of auto instrumentation solutions. |
+| content/zh/docs/contributing/sig-practices.md | Update bot-PR guidance wording to “自动插桩方式”. |
+| content/zh/docs/concepts/instrumentation/zero-code/index.md | Rename Chinese “零代码” concept page title/body to auto instrumentation terminology. |
+| content/zh/docs/concepts/instrumentation/_index.md | Update Chinese instrumentation concept index to “自动插桩方案”. |
+| content/zh/docs/concepts/components.md | Rename Chinese components section label to “手动插桩” and “自动插桩”. |
+| content/zh/docs/_includes/exporters/intro.md | Update Chinese exporter intro note to reference auto instrumentation docs. |
+| content/zh/_index.md | Update Chinese homepage feature text to “自动” instrumentation. |
+| content/pt/status.md | Rename PT status headings and add an auto-instrumentation section. |
+| content/pt/docs/languages/_index.md | Retitle PT languages index to manual instrumentation and adjust Kubernetes wording. |
+| content/pl/_index.md | Update PL homepage feature blurb to “auto instrumentation”. |
+| content/ja/docs/zero-code/_index.md | Rename JA zero-code index to auto instrumentation and update reference labels. |
+| content/ja/docs/languages/_index.md | Retitle JA languages index to manual instrumentation and update mentions of auto instrumentation solutions. |
+| content/fr/docs/zero-code/_index.md | Rename FR zero-code index to “instrumentation automatique” and update reference labels. |
+| content/es/status.md | Rename ES status heading and add an auto-instrumentation section. |
+| content/es/docs/zero-code/_index.md | Rename ES zero-code index to “instrumentación automática” and update reference labels. |
+| content/es/docs/languages/_index.md | Retitle ES languages index to manual instrumentation and update auto instrumentation mentions. |
+| content/en/status.md | Rename status section to manual instrumentation and add an auto instrumentation section with links. |
+| content/en/ecosystem/integrations.md | Update integrations page to say “auto instrumentation solutions”. |
+| content/en/docs/zero-code/python/troubleshooting.md | Replace “zero-code instrumentation” wording with auto instrumentation. |
+| content/en/docs/zero-code/python/_index.md | Rename Python zero-code landing page title to auto instrumentation. |
+| content/en/docs/zero-code/php.md | Rename PHP zero-code landing page title to auto instrumentation. |
+| content/en/docs/zero-code/obi/configure/collector-receiver.md | Replace “zero-code eBPF instrumentation” wording with auto instrumentation via eBPF. |
+| content/en/docs/zero-code/js/configuration.md | Rename JS configuration title/description to auto instrumentation. |
+| content/en/docs/zero-code/js/_index.md | Rename JS landing title/body from zero-code to auto instrumentation. |
+| content/en/docs/zero-code/java/spring-boot-starter/getting-started.md | Update link text to “Java auto instrumentation”. |
+| content/en/docs/zero-code/java/agent/_index.md | Update Java agent intro wording to auto instrumentation. |
+| content/en/docs/zero-code/java/_index.md | Rename Java zero-code landing title/body to auto instrumentation. |
+| content/en/docs/zero-code/go/_index.md | Rename Go zero-code landing title/body to auto instrumentation. |
+| content/en/docs/zero-code/dotnet/_index.md | Rename .NET zero-code landing title to auto instrumentation. |
+| content/en/docs/zero-code/_index.md | Rename zero-code section index to auto instrumentation and update reference labels. |
+| content/en/docs/platforms/kubernetes/operator/automatic.md | Update Node.js injection docs wording from zero-code to auto instrumentation. |
+| content/en/docs/languages/python/libraries.md | Update link text to “Auto instrumentation for Python”. |
+| content/en/docs/languages/python/instrumentation.md | Add note connecting manual instrumentation with auto instrumentation. |
+| content/en/docs/languages/python/getting-started.md | Replace “Zero-code” wording with “Auto Instrumentation” in getting started flow. |
+| content/en/docs/languages/php/instrumentation.md | Add note connecting manual instrumentation with auto instrumentation and instrumentation libraries. |
+| content/en/docs/languages/php/getting-started.md | Update requirements/section headings/links from zero-code to auto instrumentation. |
+| content/en/docs/languages/php/exporters.md | Update exporter note to reference auto instrumentation and configuration. |
+| content/en/docs/languages/java/instrumentation.md | Update taxonomy bullets/footnote to “Auto” terminology. |
+| content/en/docs/languages/java/getting-started.md | Update “try zero-code” link text to “try auto instrumentation”. |
+| content/en/docs/languages/go/instrumentation.md | Add note connecting manual instrumentation with auto instrumentation; update warning link text. |
+| content/en/docs/languages/_index.md | Retitle languages index to “Manual Instrumentation” and update references to auto instrumentation solutions. |
+| content/en/docs/contributing/sig-practices.md | Update bot-PR guidance wording to “auto instrumentations”. |
+| content/en/docs/concepts/instrumentation/zero-code/index.md | Rename concept page title/body from zero-code to auto instrumentation terminology. |
+| content/en/docs/concepts/components.md | Rename components section label to “Manual Instrumentation” and “Auto Instrumentation”. |
+| content/en/docs/_includes/exporters/intro.md | Update exporter intro note to reference auto instrumentation docs. |
+| content/en/_index.md | Update homepage feature blurb from zero-code to auto instrumentation. |
+</details>
+
+
+
+<details>
+<summary>Comments suppressed due to low confidence (2)</summary>
+
+**content/en/docs/concepts/instrumentation/zero-code/index.md:6**
+* The page is now titled ""Auto instrumentation"" but the image alt text still says ""Zero Code"". For accessibility and consistency with the renamed concept, update the alt text to reflect auto instrumentation (and similarly review nearby ""Zero-code"" phrasing if present).
+```
+---
+title: Auto instrumentation
+description: >-
+  Learn how to add observability to an application without the need to write
+  code
+weight: 10
+```
+**content/zh/docs/concepts/instrumentation/zero-code/index.md:6**
+* 页面标题已改为“自动插桩”，但图片的替代文本仍为“零代码”。为保持一致并改善可访问性，建议将 alt 文本更新为“自动插桩”（或与新术语一致的表述）。
+</details>"
+9593,https://github.com/open-telemetry/opentelemetry.io/pull/9593,closed_unmerged,inline_comment,copilot-pull-request-reviewer,2026-04-07T03:53:16Z,content/en/docs/languages/php/exporters.md,editorial-wording,"In link text ""configuration to setup exporters"", ""setup"" should be the verb phrase ""set up"". Consider updating the link text to something like ""configuration to set up exporters"" (or ""configuration guide to set up exporters"").
+```suggestion
+> [configuration to set up exporters](/docs/zero-code/php#configuration).
+```"
+9593,https://github.com/open-telemetry/opentelemetry.io/pull/9593,closed_unmerged,review_changes_requested,theletterf,2026-04-07T07:28:34Z,,process-workflow,"Thanks!
+
+Please split the PR into two separate contributions, one for the terminology and another for the CN localization. Focus this PR on the EN changes — changes in other localized docs must happen in separate PRs."
+9593,https://github.com/open-telemetry/opentelemetry.io/pull/9593,closed_unmerged,issue_comment,katzchang,2026-04-14T06:26:02Z,,process-workflow,"Hi, thanks for working on this!
+                                                                                                                        
+Before the lang:ja SIG can approve the Japanese localization changes in this PR, we'd like to understand the broader　context of this terminology change.                                                                                   
+   
+As you may know, there was a deliberate effort in 2024 to move away from the term ""automatic instrumentation"" to  ""zero-code instrumentation,"" precisely because ""automatic"" was considered ambiguous (see #3228, #3783, #4427).　That migration involved significant cross-language work to establish ""zero-code"" as the standard term in the docs.　This PR appears to reverse that decision by replacing ""zero-code"" back with ""auto instrumentation.""
+
+Before we can approve the lang:ja changes, we need clarity on:
+                                                                                                                        
+  1. Is there a community-level discussion or decision (e.g., an OTEP, SIG meeting note, or issue) that has agreed to　revert the terminology?
+  2. If so, could you link to it?
+
+Without a clear consensus on this terminology change at the project level, we're not in a position to approve the　localization portion independently — the Japanese translation should follow whatever the agreed-upon English terminology is."
+9716,https://github.com/open-telemetry/opentelemetry.io/pull/9716,closed_unmerged,issue_comment,theletterf,2026-04-22T09:22:10Z,,process-workflow,"@open-telemetry/php-approvers Please have a look, thanks!"
+9716,https://github.com/open-telemetry/opentelemetry.io/pull/9716,closed_unmerged,issue_comment,ChrisLightfootWild,2026-04-24T12:07:11Z,,registry-metadata,"> @open-telemetry/php-approvers Please have a look, thanks!
+
+This is the first I have heard of this. The confusion to me here would be that this package is using `OpenTelemetry\Contrib` as a prefix.
+
+@bobstrecansky do you have any thoughts on this?"
+9716,https://github.com/open-telemetry/opentelemetry.io/pull/9716,closed_unmerged,issue_comment,vitorvasc,2026-06-01T04:33:37Z,,process-workflow,"> Hi @ChrisLightfootWild sure, maybe it is confusing. i can rename the prefix to `Eerzho\`
+
+Hi @eerzho! Just checking in, have you had a chance to address that change? 
+
+As an FYI, I'm moving this PR to draft state so we can better track what's ready for review. Please let us know whenever we can move forward with it. 🙂"
+9716,https://github.com/open-telemetry/opentelemetry.io/pull/9716,closed_unmerged,review_approved,ChrisLightfootWild,2026-06-04T11:00:20Z,,approval-note,LGTM 👍
+9716,https://github.com/open-telemetry/opentelemetry.io/pull/9716,closed_unmerged,review_approved,vitorvasc,2026-06-08T05:19:34Z,,approval-note,"@eerzho, thanks!"
+9716,https://github.com/open-telemetry/opentelemetry.io/pull/9716,closed_unmerged,issue_comment,maryliag,2026-06-25T20:19:26Z,,ci-lint-request,"hey @eerzho , you have a lot of test failures, can you fix them so we can merge this? Thanks!"
+9716,https://github.com/open-telemetry/opentelemetry.io/pull/9716,closed_unmerged,issue_comment,vitorvasc,2026-07-01T05:20:10Z,,pr-closure,"I hadn't seen the branch name, nice catch. 😅 
+
+Closing in favor of #10632."
+9745,https://github.com/open-telemetry/opentelemetry.io/pull/9745,merged,issue_comment,chalin,2026-04-28T07:54:28Z,,broken-link,"**Note (dnslookup processor):** The `dnslookupprocessor` directory no longer exists on `main` in `opentelemetry-collector-contrib` (404 on the old `tree/main/...` URL). It still exists at tag `v0.150.0`, which matches the registry entry’s `package.version`, so the registry `urls.repo` was pinned to that tag.
+
+Longer term, if the component is fully superseded on `main` by something else (e.g. lookup processor), we may want a follow-up docs/registry update; this PR resolves the broken link and refcache failure for now."
+9745,https://github.com/open-telemetry/opentelemetry.io/pull/9745,merged,review_approved,chalin,2026-04-28T07:55:30Z,,approval-note,LGTM if all checks are green.
+9785,https://github.com/open-telemetry/opentelemetry.io/pull/9785,closed_unmerged,issue_comment,meskhidze04-sys,2026-04-29T07:00:06Z,,other,g
+9860,https://github.com/open-telemetry/opentelemetry.io/pull/9860,closed_unmerged,issue_comment,theletterf,2026-05-11T08:55:42Z,,ci-fix-command,/fix:all
+9860,https://github.com/open-telemetry/opentelemetry.io/pull/9860,closed_unmerged,issue_comment,otelbot-docs,2026-05-11T09:06:34Z,,bot-status,✅ `fix:all` applied successfully in [run 25660345675](https://github.com/open-telemetry/opentelemetry.io/actions/runs/25660345675).
+9860,https://github.com/open-telemetry/opentelemetry.io/pull/9860,closed_unmerged,issue_comment,theletterf,2026-05-13T13:35:55Z,,process-workflow,"@techiesinha Sorry, you should open the PR from a branch other than main — it's a project requirement."
+9893,https://github.com/open-telemetry/opentelemetry.io/pull/9893,closed_unmerged,issue_comment,theletterf,2026-05-13T13:33:18Z,,ci-fix-command,/fix:all
+9893,https://github.com/open-telemetry/opentelemetry.io/pull/9893,closed_unmerged,issue_comment,otelbot-docs,2026-05-13T13:51:28Z,,bot-status,❌ `fix:all` failed or exited with a non-zero error code (0). See logs: https://github.com/open-telemetry/opentelemetry.io/actions/runs/25802452424
+9893,https://github.com/open-telemetry/opentelemetry.io/pull/9893,closed_unmerged,inline_comment,tiffany76,2026-05-28T22:39:43Z,data/registry/application-integration-tokenjam.yml,spelling-cspell,"```suggestion
+# cSpell:ignore: genai metabuilder
+title: TokenJam
+```"
+9893,https://github.com/open-telemetry/opentelemetry.io/pull/9893,closed_unmerged,issue_comment,tiffany76,2026-05-28T22:41:56Z,,process-workflow,"Hi @anilmurty - unfortunately, we can't directly fix the CI for you because you haven't given permission for maintainers to work on the PR. I've made a suggestion that should help with the spelling. You'll also need to run `npm run fix:refcache` locally and push up the changes that are generated.
+
+Thanks."
+9899,https://github.com/open-telemetry/opentelemetry.io/pull/9899,merged,issue_comment,vitorvasc,2026-05-15T09:13:36Z,,ci-fix-command,/fix:all
+9899,https://github.com/open-telemetry/opentelemetry.io/pull/9899,merged,issue_comment,otelbot-docs,2026-05-15T09:23:02Z,,bot-status,✅ `fix:all` applied successfully in [run 25909992314](https://github.com/open-telemetry/opentelemetry.io/actions/runs/25909992314).
+9899,https://github.com/open-telemetry/opentelemetry.io/pull/9899,merged,inline_comment,tiffany76,2026-05-20T19:42:17Z,data/registry/instrumentation-js-react-telemetry-open.yaml,broken-link,"```suggestion
+  website: https://www.npmjs.com/package/react-telemetry-open?link-check=no
+```"
+9899,https://github.com/open-telemetry/opentelemetry.io/pull/9899,merged,inline_comment,tiffany76,2026-05-20T19:44:53Z,data/registry/instrumentation-js-react-telemetry-open.yaml,spelling-cspell,"```suggestion
+# cSpell:ignore abhishek sinha
+title: react-telemetry-open
+```"
+9899,https://github.com/open-telemetry/opentelemetry.io/pull/9899,merged,review_approved,tiffany76,2026-05-20T19:45:26Z,,approval-note,"Linter fixes, otherwise LGTM."
+9912,https://github.com/open-telemetry/opentelemetry.io/pull/9912,merged,inline_comment,tiffany76,2026-05-20T19:47:50Z,data/registry/tools-go-otelc.yml,registry-metadata,Can you change the filename and registryType to `tools`? We don't have a category for `utilities` and I don't think we want to add one.
+9912,https://github.com/open-telemetry/opentelemetry.io/pull/9912,merged,inline_comment,tiffany76,2026-05-20T19:48:43Z,data/registry/tools-go-otelc.yml,spelling-cspell,"```suggestion
+# cSpell:ignore otelc
+title: otelc
+```"
+9912,https://github.com/open-telemetry/opentelemetry.io/pull/9912,merged,inline_comment,tiffany76,2026-05-28T21:57:03Z,data/registry/tools-go-otelc.yml,registry-metadata,"```suggestion
+registryType: utilities
+```"
+9912,https://github.com/open-telemetry/opentelemetry.io/pull/9912,merged,inline_comment,tiffany76,2026-05-28T21:57:34Z,data/registry-schema.json,registry-metadata,"```suggestion
+```"
+9912,https://github.com/open-telemetry/opentelemetry.io/pull/9912,merged,review_commented,tiffany76,2026-05-28T21:59:05Z,,registry-metadata,"Ahh - sorry about that @ADITYA-CODE-SOURCE. Registry entries are listed by ""tools"" in their filename and ""utilities"" in registryType. That's my bad.
+
+I'm reverting those changes now and will merge once CI is green. Sorry again for the confusion."
+9928,https://github.com/open-telemetry/opentelemetry.io/pull/9928,closed_unmerged,issue_comment,tiffany76,2026-05-20T19:38:59Z,,pr-closure,"Hi @Pulkit7070 - This PR duplicates #9912, so I'm closing it. Thanks for your interest!"
+10010,https://github.com/open-telemetry/opentelemetry.io/pull/10010,merged,issue_comment,vitorvasc,2026-05-30T06:05:32Z,,ci-fix-command,/fix:refcache
+10010,https://github.com/open-telemetry/opentelemetry.io/pull/10010,merged,issue_comment,otelbot-docs,2026-05-30T06:14:37Z,,bot-status,✅ `fix:refcache` applied successfully in [run 26676435699](https://github.com/open-telemetry/opentelemetry.io/actions/runs/26676435699).
+10086,https://github.com/open-telemetry/opentelemetry.io/pull/10086,closed_unmerged,review_commented,chatgpt-codex-connector,2026-05-30T15:00:22Z,,automated-review-summary,"### 💡 Codex Review
+
+Here are some automated review suggestions for this pull request.
+
+**Reviewed commit:** `a273736844`
+    
+
+<details> <summary>ℹ️ About Codex in GitHub</summary>
+<br/>
+
+[Your team has set up Codex to review pull requests in this repo](https://chatgpt.com/codex/cloud/settings/general). Reviews are triggered when you
+- Open a pull request for review
+- Mark a draft as ready
+- Comment ""@codex review"".
+
+If Codex has suggestions, it will comment; otherwise it will react with 👍.
+
+
+
+
+Codex can also answer questions or update the PR. Try commenting ""@codex address that feedback"".
+            
+</details>"
+10086,https://github.com/open-telemetry/opentelemetry.io/pull/10086,closed_unmerged,inline_comment,chatgpt-codex-connector,2026-05-30T15:00:22Z,data/registry/collector-receiver-tintri.yml,broken-link,"**<sub><sub>![P2 Badge](https://img.shields.io/badge/P2-yellow?style=flat)</sub></sub>  Publish the repository before adding the registry entry**
+
+This registry entry points its primary link at `https://github.com/IntegrationPlumbers/tintri`, but that URL is not publicly accessible from an unauthenticated GitHub request (404), and the matching `github.com/IntegrationPlumbers/tintri` Go package is not discoverable. In this state the generated registry card sends users to a dead source/package link, so the entry should either point at the public repository/module path or wait until the repo and `v0.3.0` tag are published.
+
+Useful? React with 👍 / 👎."
+10086,https://github.com/open-telemetry/opentelemetry.io/pull/10086,closed_unmerged,issue_comment,vitorvasc,2026-06-01T04:14:03Z,,process-workflow,Hi @jraleigh! Could you please sign the CLA?
+10086,https://github.com/open-telemetry/opentelemetry.io/pull/10086,closed_unmerged,issue_comment,vitorvasc,2026-07-09T16:41:59Z,,process-workflow,"@jraleigh, thanks for the PR! LGTM overall, but I just noticed that your fork's branch is `main`. This is going to fail one of our checks - could you adjust that and open a new PR, please?
+
+Heads-up: the pipeline for the component's repo is also broken, though it's probably just a GH actions version issue and not the component itself: https://github.com/IntegrationPlumbers/tintri/actions/runs/26686098718/job/78654496931"
+10102,https://github.com/open-telemetry/opentelemetry.io/pull/10102,merged,issue_comment,tiffany76,2026-06-02T21:55:13Z,,ci-fix-command,/fix:format
+10102,https://github.com/open-telemetry/opentelemetry.io/pull/10102,merged,issue_comment,otelbot-docs,2026-06-02T21:58:19Z,,bot-status,✅ `fix:format` applied successfully in [run 26850353804](https://github.com/open-telemetry/opentelemetry.io/actions/runs/26850353804).
+10158,https://github.com/open-telemetry/opentelemetry.io/pull/10158,merged,issue_comment,svrnm,2026-07-13T08:19:38Z,,process-workflow,"@thompson-tomo can we split the PRs, so that we first have the script and then in another run the files updated? Thanks"
+10158,https://github.com/open-telemetry/opentelemetry.io/pull/10158,merged,issue_comment,opentelemetry-pr-dashboard,2026-07-18T13:56:57Z,,bot-status,"<!-- pull-request-dashboard-status -->
+<!-- pull-request-dashboard-status-revision:12 -->
+## Pull request dashboard status
+
+_Status last refreshed: 2026-07-22 16:34:48 UTC._
+
+- **Status:** Merged.
+
+_This automated status or its linked feedback items may be incorrect. If something looks wrong, please [report it](https://github.com/open-telemetry/shared-workflows/issues/new?template=incorrect-pr-dashboard-result.md&title=PR+dashboard+result+looks+incorrect&body=PR%3A+https%3A%2F%2Fgithub.com%2Fopen-telemetry%2Fopentelemetry.io%2Fpull%2F10158%0A%0AWhat+looks+incorrect%3A%0A) with the result you expected._"
+10158,https://github.com/open-telemetry/opentelemetry.io/pull/10158,merged,inline_comment,vitorvasc,2026-07-21T06:49:25Z,data/registry/collector-connector-x.yml,duplicate-entry,"Is this an actual component? There are five similar entries:
+
+- data/registry/collector-connector-x.yml
+- data/registry/collector-exporter-x.yml
+- data/registry/collector-extension-x.yml
+- data/registry/collector-processor-x.yml
+- data/registry/collector-receiver-x.yml"
+10158,https://github.com/open-telemetry/opentelemetry.io/pull/10158,merged,inline_comment,vitorvasc,2026-07-21T06:59:31Z,data/registry/id-generator-js-idgeneratorawsxray.yml,duplicate-entry,"Just to be safe, I used AI to double-check the new entries and it found some duplicate entries for components that already exist under a different file name:
+
+| New entry | Existing entry |
+| --- | --- |
+| `id-generator-js-idgeneratorawsxray.yml` | `tools-js-id-generator-aws-xray.yml` |
+| `processor-js-baggagelogrecord.yml` | `tools-js-baggage-log-record-processor.yml` |
+| `processor-js-baggagespan.yml` | `tools-js-baggage-span-processor.yml` |
+| `propagator-js-awsxray.yml` | `tools-js-propagator-aws-xray.yml` |
+| `propagator-js-awsxraylambda.yml` | `tools-js-propagator-aws-xray-lambda.yml` |
+| `propagator-js-instana.yml` | `tools-js-propagator-instana.yml` |
+| `propagator-js-ottrace.yml` | `tools-js-propagator-ot-trace.yml` |
+| `propagator-php-b3.yml` | `tools-php-propagator-b3.yml` |
+| `resource-detector-js-resourcedetectoralibabacloud.yml` | `resource-detector-js-alibabacloud.yml` |
+| `resource-detector-js-resourcedetectoraws.yml` | `resource-detector-js-aws.yml` |
+| `resource-detector-js-resourcedetectorazure.yml` | `resource-detector-js-azure.yml` |
+| `resource-detector-js-resourcedetectorcontainer.yml` | `resource-detector-js-container.yml` |
+| `resource-detector-js-resourcedetectorgcp.yml` | `resource-detector-js-gcp.yml` |
+| `resource-detector-js-resourcedetectorgithub.yml` | `resource-detector-js-github.yml` |
+| `resource-detector-js-resourcedetectorinstana.yml` | `resource-detector-js-instana.yml` |
+| `sampler-js-awsxray.yml` | `tools-js-sampler-aws-xray.yml` |"
+10158,https://github.com/open-telemetry/opentelemetry.io/pull/10158,merged,inline_comment,svrnm,2026-07-21T07:05:21Z,data/registry/id-generator-js-idgeneratorawsxray.yml,duplicate-entry,"good catch! The scanner script never was build in a way that it works automatic and this is one of the reasons for it, it does not generate files consistently so there is some manual work required to make sure that no duplicates are created at the end."
+10158,https://github.com/open-telemetry/opentelemetry.io/pull/10158,merged,issue_comment,vitorvasc,2026-07-21T12:55:09Z,,ci-fix-command,/fix:refcache
+10158,https://github.com/open-telemetry/opentelemetry.io/pull/10158,merged,review_approved,vitorvasc,2026-07-22T14:38:11Z,,approval-note,"Moving with the merge, thanks! 🙂"
+10171,https://github.com/open-telemetry/opentelemetry.io/pull/10171,merged,issue_comment,svrnm,2026-06-16T14:27:15Z,,ci-fix-command,/fix:all
+10233,https://github.com/open-telemetry/opentelemetry.io/pull/10233,merged,issue_comment,vitorvasc,2026-06-05T17:48:36Z,,ci-fix-command,/fix:refcache
+10233,https://github.com/open-telemetry/opentelemetry.io/pull/10233,merged,issue_comment,otelbot-docs,2026-06-05T17:58:29Z,,bot-status,✅ `fix:refcache` applied successfully in [run 27030899172](https://github.com/open-telemetry/opentelemetry.io/actions/runs/27030899172).
+10503,https://github.com/open-telemetry/opentelemetry.io/pull/10503,merged,inline_comment,vitorvasc,2026-06-29T05:01:47Z,content/es/docs/concepts/instrumentation-scope/index.md,process-workflow,"Can you drop the `npm run fix:all` changes from this PR? Those locale content updates follow a separate housekeeping flow, we can keep the changes scoped to the zoom feature."
+10503,https://github.com/open-telemetry/opentelemetry.io/pull/10503,merged,review_commented,vitorvasc,2026-06-29T05:02:45Z,,code-quality,"Nice work, @jaredDlewis! Thanks for the contribution 🙌🏼 
+
+Just a few things, as I had mentioned on Slack:
+
+The selector is currently matching too much, which includes zooming badges, logos, and SDK icons. For example: https://deploy-preview-10503--opentelemetry.netlify.app/docs/languages/dotnet/. I'd gate what we want to zoom on a size threshold, e.g. skipping images under ~Npx of `naturalWidth`/`naturalHeight`. 
+
+And one bigger-picture question (mentioned on Slack, leaving it here too): @chalin, this reads like a theme-level feature every Docsy site would want, not custom JS we maintain. Worth upstreaming to Docsy?"
+10503,https://github.com/open-telemetry/opentelemetry.io/pull/10503,merged,issue_comment,opentelemetry-pr-dashboard,2026-06-29T05:03:06Z,,bot-status,"<!-- review-guidance -->
+This PR has review comments. Review suggestions, whether from maintainers or automated reviewers, aren't always correct or required. Please evaluate each comment on its merits, then make sure each thread has a clear outcome.
+
+For example, link to the commit if you applied a suggestion, explain why it wasn't applied, or ask a follow-up question.
+
+Automation flags a PR for human review once every review thread has a reply or is marked as resolved.
+
+Status across open PRs is visible on the [pull request dashboard](https://github.com/open-telemetry/opentelemetry.io/issues/10567)."
+10503,https://github.com/open-telemetry/opentelemetry.io/pull/10503,merged,review_commented,chalin,2026-06-30T13:27:34Z,,process-workflow,"Thanks @jaredDlewis - I won't have time to review this, so I'll let @vitorvasc et all decide. This is nicely modular, so if ever Docsy offers a similar solution, it should be easy to switch."
+10503,https://github.com/open-telemetry/opentelemetry.io/pull/10503,merged,issue_comment,vitorvasc,2026-07-01T04:50:14Z,,code-quality,"### Code review
+
+Found 1 issue:
+
+1. The zoom lightbox can't be opened by keyboard — it only listens for a `click` event on images, and images are never given `tabindex`, `role=""button""`, or a `keydown`/`keypress` handler. Since `<img>` elements aren't natively focusable, keyboard-only users have no way to trigger the zoom at all.
+
+https://github.com/open-telemetry/opentelemetry.io/blob/f6dbdd9ef3a4d4a3211937c292273cad2b90b544/assets/js/imageZoom.js#L84-L89
+
+🤖 Generated with [Claude Code](https://claude.ai/code)
+
+<sub>- If this code review was useful, please react with 👍. Otherwise, react with 👎.</sub>"
+10503,https://github.com/open-telemetry/opentelemetry.io/pull/10503,merged,review_approved,vitorvasc,2026-07-01T04:58:49Z,,approval-note,"Okay - I just ran a code review with Claude Code and it found an accessibility issue I missed, which seems valid. LGTM once we address that.
+
+The feature is looking really great, and I'm excited to finally have it across the docs. Thanks a lot for your contribution, @jaredDlewis!"
+10503,https://github.com/open-telemetry/opentelemetry.io/pull/10503,merged,review_approved,vitorvasc,2026-07-06T13:52:25Z,,approval-note,Awesome! Thanks @jaredDlewis 🙌🏼
+10556,https://github.com/open-telemetry/opentelemetry.io/pull/10556,merged,review_approved,chalin,2026-06-26T18:56:11Z,,version-bump-approval,"Version bumps only — no other field changes, no added or changed URLs. Per sig-practices.md (PRs from bots).
+
+Version bumps (261 files):
+- v0.154.0 → v0.155.0 (246)
+- 1.15.1-beta.1 → 1.16.0-beta.1 (5)
+- 1.15.2 → 1.16.0 (4)
+- 1.15.1 → 1.16.0 (2)
+- 1.15.1-beta.2 → 1.16.0-beta.1 (2)
+- 1.15.1-alpha.1 → 1.16.0-alpha.1 (1)
+- 1.0.0-beta.11 → 1.0.0-beta.12 (1)"
+10575,https://github.com/open-telemetry/opentelemetry.io/pull/10575,closed_unmerged,inline_comment,svrnm,2026-06-30T08:34:16Z,data/registry/application-integration-collector-oodle.yml,registry-metadata,"this is not an integration, but a vendor, please take a look here to be added: https://opentelemetry.io/ecosystem/vendors/#how-to-add"
+10575,https://github.com/open-telemetry/opentelemetry.io/pull/10575,closed_unmerged,review_changes_requested,svrnm,2026-06-30T08:34:20Z,,registry-metadata,
+10575,https://github.com/open-telemetry/opentelemetry.io/pull/10575,closed_unmerged,issue_comment,opentelemetry-pr-dashboard,2026-06-30T08:34:43Z,,bot-status,"<!-- review-guidance -->
+This PR has review comments. Review suggestions, whether from maintainers or automated reviewers, aren't always correct or required. Please evaluate each comment on its merits, then make sure each thread has a clear outcome.
+
+For example, link to the commit if you applied a suggestion, explain why it wasn't applied, or ask a follow-up question.
+
+Automation flags a PR for human review once every review thread has a reply or is marked as resolved.
+
+Status across open PRs is visible on the [pull request dashboard](https://github.com/open-telemetry/opentelemetry.io/issues/10567)."
+10586,https://github.com/open-telemetry/opentelemetry.io/pull/10586,merged,review_approved,vitorvasc,2026-06-27T16:17:43Z,,version-bump-approval,"Version bumps only — no other field changes, no added or changed URLs. Per sig-practices.md (PRs from bots).
+
+3 files bumped:
+- 4.0.13 -> 4.0.14 (1)
+- 4.1.4 -> 4.1.5 (1)
+- v3.0.0 -> v3.0.1 (1)"
+10609,https://github.com/open-telemetry/opentelemetry.io/pull/10609,merged,issue_comment,chalin,2026-06-29T13:56:34Z,,broken-link,"> CI failure looks unrelated:
+> 
+> https://github.com/open-telemetry/opentelemetry.io/blob/d0a7cd1056168c002b5d01beb802860d08192d27/data/registry/application-integration-python-checkmk.yml#L22
+
+Right. Fixed via #10615."
+10618,https://github.com/open-telemetry/opentelemetry.io/pull/10618,merged,inline_comment,chalin,2026-06-29T16:12:30Z,data/registry/tools-java-druid-extension-otlp.yaml,broken-link,"I'd prefer keeping the website URL, but it has certificate issues atm. GH seems like a good anchor for now."
+10618,https://github.com/open-telemetry/opentelemetry.io/pull/10618,merged,issue_comment,opentelemetry-pr-dashboard,2026-06-29T16:13:01Z,,bot-status,"<!-- review-guidance -->
+This PR has review comments. Review suggestions, whether from maintainers or automated reviewers, aren't always correct or required. Please evaluate each comment on its merits, then make sure each thread has a clear outcome.
+
+For example, link to the commit if you applied a suggestion, explain why it wasn't applied, or ask a follow-up question.
+
+Automation flags a PR for human review once every review thread has a reply or is marked as resolved.
+
+Status across open PRs is visible on the [pull request dashboard](https://github.com/open-telemetry/opentelemetry.io/issues/10567)."
+10663,https://github.com/open-telemetry/opentelemetry.io/pull/10663,closed_unmerged,review_approved,chalin,2026-07-04T11:06:14Z,,version-bump-approval,"Version bumps only — no other field changes, no added or changed URLs. Per sig-practices.md (PRs from bots).
+
+7 files bumped:
+  0.219.0 -> 0.220.0  (5)
+  2.8.0 -> 2.9.0  (2)"
+10663,https://github.com/open-telemetry/opentelemetry.io/pull/10663,closed_unmerged,issue_comment,chalin,2026-07-04T11:10:21Z,,pr-closure,"Superseded by #10679 — same 7 `version` bumps (`0.219.0 → 0.220.0` ×5, `2.8.0 → 2.9.0` ×2), plus 53 additional registry updates."
+10679,https://github.com/open-telemetry/opentelemetry.io/pull/10679,merged,review_approved,chalin,2026-07-04T11:06:14Z,,version-bump-approval,"Version bumps only — no other field changes, no added or changed URLs. Per sig-practices.md (PRs from bots).
+
+60 files bumped:
+  0.65.0 -> 0.66.0  (7)
+  0.63.0 -> 0.64.0  (7)
+  0.219.0 -> 0.220.0  (5)
+  0.64.0 -> 0.65.0  (5)
+  0.67.0 -> 0.68.0  (5)
+  0.62.0 -> 0.63.0  (4)
+  0.71.0 -> 0.72.0  (3)
+  0.38.0 -> 0.39.0  (3)
+  2.8.0 -> 2.9.0  (2)
+  0.66.0 -> 0.67.0  (2)
+  0.12.0 -> 0.13.0  (2)
+  0.74.0 -> 0.75.0  (1)
+  0.35.0 -> 0.36.0  (1)
+  0.36.0 -> 0.37.0  (1)
+  0.72.0 -> 0.73.0  (1)
+  0.44.0 -> 0.45.0  (1)
+  0.51.0 -> 0.52.0  (1)
+  0.32.0 -> 0.33.0  (1)
+  0.29.0 -> 0.30.0  (1)
+  0.6.0 -> 0.7.0  (1)
+  0.34.0 -> 0.35.0  (1)
+  2.19.0 -> 2.20.0  (1)
+  0.27.0 -> 0.28.0  (1)
+  0.8.10 -> 0.8.11  (1)
+  0.54.0 -> 0.55.0  (1)
+  0.20.0 -> 0.21.0  (1)"
+10705,https://github.com/open-telemetry/opentelemetry.io/pull/10705,closed_unmerged,review_changes_requested,chalin,2026-07-07T10:02:35Z,,process-workflow,"It seems that this PR was based on a very, very old commit. There are 3K+ changed files. I know that this is still in draft, but wanted to point out the invalid base."
+10752,https://github.com/open-telemetry/opentelemetry.io/pull/10752,merged,issue_comment,chalin,2026-07-10T15:55:15Z,,registry-maintenance,"### Registry: drop Python Elasticsearch instrumentation
+
+- Deleted `data/registry/instrumentation-python-elasticsearch.yml`.
+- **Why:** the package was removed upstream in [opentelemetry-python-contrib#4759](https://github.com/open-telemetry/opentelemetry-python-contrib/pull/4759) (*Drop elasticsearch instrumentation*, merged 2026-07-01). Elastic’s Python client has had native OTel instrumentation since 8.13, and supported clients no longer need the contrib package. The tree URL on `main` now 404s.
+- **Still listed:** the native client entry `data/registry/instrumentation-python-elasticsearch-client.yml` (Elastic’s own docs).
+
+cc @open-telemetry/python-approvers"
+10752,https://github.com/open-telemetry/opentelemetry.io/pull/10752,merged,review_approved,chalin,2026-07-10T15:58:04Z,,approval-note,LGTM once checks pass
+10804,https://github.com/open-telemetry/opentelemetry.io/pull/10804,merged,issue_comment,chalin,2026-07-13T14:44:08Z,,broken-link,"Refcache update done using: `/refresh-refcache-pr-fix`
+
+Fixed 2 dead links (Highlight vendor URL → app.highlight.io; AgentMark repo → org page), refreshed refcache — no non-2XX entries remain."
+10804,https://github.com/open-telemetry/opentelemetry.io/pull/10804,merged,issue_comment,chalin,2026-07-13T15:22:58Z,,registry-maintenance,"Follow-up to the link fixes above (ca3af6d): rather than repointing, 37cdce6 retires the two entries.
+
+- **Highlight** (vendor): highlight.io's TLS cert expired 2026-07-07 and the company has [merged into LaunchDarkly](https://highlight.io/launchdarkly-migration); it no longer exists as a standalone vendor. The repointed `app.highlight.io` URL returns 200 for *any* path (SPA catch-all), so it only masked the dead docs link. cc @Vadman97 (#3296)
+- **AgentMark** (registry): the `agentmark-ai/agentmark` source repo has gone private and the npm package no longer declares a repository, so the open-source (AGPL) instrumentation entry no longer holds. The AgentMark commercial vendor listing remains. cc @kocobee (#10171)
+
+If either project would like to be relisted (e.g. under LaunchDarkly, or with a public repo), a PR restoring the entry is welcome."
+10804,https://github.com/open-telemetry/opentelemetry.io/pull/10804,merged,review_approved,chalin,2026-07-13T15:42:00Z,,approval-note,~@vitorvasc @svrnm et all: let me know if you agree with the vendor and registry removals -- see previous comment for details.~ (See next comment and Slack thread. Apologies for the noise.)
+10804,https://github.com/open-telemetry/opentelemetry.io/pull/10804,merged,issue_comment,chalin,2026-07-13T16:22:15Z,,process-workflow,"This is per our documented policy, see https://opentelemetry.io/ecosystem/registry/updating/. Merging. Feedback is still welcome."
+10821,https://github.com/open-telemetry/opentelemetry.io/pull/10821,merged,issue_comment,chalin,2026-07-14T10:25:53Z,,broken-link,"Refcache update done using: `/refresh-refcache-pr-fix`
+
+Fixed the JMX receiver registry repo link (404 on main after collector-contrib#49478); re-checked cached 4XX URLs — 0 non-2XX entries remain (200: 1680, 206: 4348)."
+10821,https://github.com/open-telemetry/opentelemetry.io/pull/10821,merged,inline_comment,chalin,2026-07-14T10:32:01Z,data/registry/collector-receiver-jmx.yml,registry-maintenance,"@open-telemetry/collector-maintainers - in terms of followup actions: should this entry simply be replaced instead of deprecated? 
+
+/cc @tiffany76 @vitorvasc"
+10821,https://github.com/open-telemetry/opentelemetry.io/pull/10821,merged,issue_comment,opentelemetry-pr-dashboard,2026-07-14T10:32:27Z,,bot-status,"<!-- review-guidance -->
+This PR has review comments. Review suggestions, whether from maintainers or automated reviewers, aren't always correct or required. Please evaluate each comment on its merits, then make sure each thread has a clear outcome.
+
+For example, link to the commit if you applied a suggestion, explain why it wasn't applied, or ask a follow-up question.
+
+Automation flags a PR for human review once every review thread has a reply or is marked as resolved.
+
+Status across open PRs is visible on the [pull request dashboard](https://github.com/open-telemetry/opentelemetry.io/issues/10567)."
+10838,https://github.com/open-telemetry/opentelemetry.io/pull/10838,merged,review_approved,chalin,2026-07-15T11:47:10Z,,version-bump-approval,"Version bumps only — no other field changes, no added or changed URLs. Per sig-practices.md (PRs from bots).
+
+3 files bumped
+  v3.0.2 -> v3.1.0  (1)
+  0.7.0 -> 0.7.1  (1)
+  0.2.0 -> 0.2.1  (1)"
+10871,https://github.com/open-telemetry/opentelemetry.io/pull/10871,merged,review_approved,chalin,2026-07-17T09:58:42Z,,version-bump-approval,"Version bumps only — no other field changes, no added or changed URLs. Per sig-practices.md (PRs from bots).
+
+3 files bumped:
+  1.16.0-beta.1 -> 1.17.0-beta.1  (2)
+  6.3.0 -> 6.4.0  (1)"
+10873,https://github.com/open-telemetry/opentelemetry.io/pull/10873,merged,issue_comment,chalin,2026-07-17T10:23:15Z,,broken-link,"- Refcache update done using: `/refresh-refcache-pr-fix`
+- Re-checked cached 4XX URLs (npm.com now 2XX)
+- Updated dead BMC Helix metric API link to BMC docs search URL b/c direct link includes docs versions, which will rot over time as older versions are dropped. Besides, this entry has caused too much churn already. /cc @vitorvasc 
+- All refcache entries now 2XX."
+10873,https://github.com/open-telemetry/opentelemetry.io/pull/10873,merged,review_approved,chalin,2026-07-17T10:25:02Z,,approval-note,LGTM once all checks pass
+10880,https://github.com/open-telemetry/opentelemetry.io/pull/10880,merged,review_approved,chalin,2026-07-18T11:11:05Z,,version-bump-approval,"Version bumps only — no other field changes, no added or changed URLs. Per sig-practices.md (PRs from bots).
+
+23 files bumped:
+  1.16.0 -> 1.17.0  (8)
+  1.16.0-beta.1 -> 1.17.0-beta.1  (8)
+  1.0.0-alpha.9 -> 1.0.0-alpha.10  (1)
+  1.0.0-beta.7 -> 1.0.0-beta.8  (1)
+  1.16.0-alpha.1 -> 1.17.0-alpha.1  (1)
+  1.0.0-beta.13 -> 1.0.0-beta.14  (1)
+  1.16.0-beta.2 -> 1.17.0-beta.1  (1)
+  1.16.0-rc.1 -> 1.17.0-rc.1  (1)
+  v0.2.1 -> v0.3.1  (1)"
+10909,https://github.com/open-telemetry/opentelemetry.io/pull/10909,merged,issue_comment,opentelemetry-pr-dashboard,2026-07-20T18:44:42Z,,bot-status,"<!-- pull-request-dashboard-status -->
+<!-- pull-request-dashboard-status-revision:9 -->
+## Pull request dashboard status
+
+_Status last refreshed: 2026-07-21 05:07:28 UTC._
+
+- **Status:** Merged.
+
+_This automated status or its linked feedback items may be incorrect. If something looks wrong, [report it](https://github.com/open-telemetry/shared-workflows/issues/new?template=incorrect-pr-dashboard-result.md&title=PR+dashboard+result+looks+incorrect&body=PR%3A+https%3A%2F%2Fgithub.com%2Fopen-telemetry%2Fopentelemetry.io%2Fpull%2F10909%0A%0AWhat+looks+incorrect%3A%0A) with the result you expected._"
+10916,https://github.com/open-telemetry/opentelemetry.io/pull/10916,merged,issue_comment,opentelemetry-pr-dashboard,2026-07-21T05:39:25Z,,bot-status,"<!-- pull-request-dashboard-status -->
+<!-- pull-request-dashboard-status-revision:9 -->
+## Pull request dashboard status
+
+_Status last refreshed: 2026-07-21 06:06:34 UTC._
+
+- **Status:** Merged.
+
+_This automated status or its linked feedback items may be incorrect. If something looks wrong, [report it](https://github.com/open-telemetry/shared-workflows/issues/new?template=incorrect-pr-dashboard-result.md&title=PR+dashboard+result+looks+incorrect&body=PR%3A+https%3A%2F%2Fgithub.com%2Fopen-telemetry%2Fopentelemetry.io%2Fpull%2F10916%0A%0AWhat+looks+incorrect%3A%0A) with the result you expected._"
+10918,https://github.com/open-telemetry/opentelemetry.io/pull/10918,merged,issue_comment,opentelemetry-pr-dashboard,2026-07-21T06:11:03Z,,bot-status,"<!-- pull-request-dashboard-status -->
+<!-- pull-request-dashboard-status-revision:9 -->
+## Pull request dashboard status
+
+_Status last refreshed: 2026-07-21 06:17:42 UTC._
+
+- **Status:** Merged.
+
+_This automated status or its linked feedback items may be incorrect. If something looks wrong, [report it](https://github.com/open-telemetry/shared-workflows/issues/new?template=incorrect-pr-dashboard-result.md&title=PR+dashboard+result+looks+incorrect&body=PR%3A+https%3A%2F%2Fgithub.com%2Fopen-telemetry%2Fopentelemetry.io%2Fpull%2F10918%0A%0AWhat+looks+incorrect%3A%0A) with the result you expected._"
+10942,https://github.com/open-telemetry/opentelemetry.io/pull/10942,merged,issue_comment,opentelemetry-pr-dashboard,2026-07-22T05:38:51Z,,bot-status,"<!-- pull-request-dashboard-status -->
+<!-- pull-request-dashboard-status-revision:9 -->
+## Pull request dashboard status
+
+_Status last refreshed: 2026-07-22 09:26:32 UTC._
+
+- **Status:** Merged.
+
+_This automated status or its linked feedback items may be incorrect. If something looks wrong, [report it](https://github.com/open-telemetry/shared-workflows/issues/new?template=incorrect-pr-dashboard-result.md&title=PR+dashboard+result+looks+incorrect&body=PR%3A+https%3A%2F%2Fgithub.com%2Fopen-telemetry%2Fopentelemetry.io%2Fpull%2F10942%0A%0AWhat+looks+incorrect%3A%0A) with the result you expected._"
+10983,https://github.com/open-telemetry/opentelemetry.io/pull/10983,merged,issue_comment,opentelemetry-pr-dashboard,2026-07-23T05:41:36Z,,bot-status,"<!-- pull-request-dashboard-status -->
+<!-- pull-request-dashboard-status-revision:13 -->
+## Pull request dashboard status
+
+_Status last refreshed: 2026-07-23 07:36:36 UTC._
+
+- **Status:** Merged.
+
+_This automated status or its linked feedback items may be incorrect. If something looks wrong, please [report it](https://github.com/open-telemetry/shared-workflows/issues/new?template=incorrect-pr-dashboard-result.md&title=PR+dashboard+result+looks+incorrect&body=PR%3A+https%3A%2F%2Fgithub.com%2Fopen-telemetry%2Fopentelemetry.io%2Fpull%2F10983%0A%0ACurrent+live+status+comment%3A%0A%3E+%3C%21--+pull-request-dashboard-status+--%3E%0A%3E+%3C%21--+pull-request-dashboard-status-revision%3A13+--%3E%0A%3E+%23%23+Pull+request+dashboard+status%0A%3E+%0A%3E+_Status+last+refreshed%3A+2026-07-23+07%3A36%3A36+UTC._%0A%3E+%0A%3E+-+%2A%2AStatus%3A%2A%2A+Merged.%0A%0AWhat+looks+incorrect%3A%0A) with the result you expected._"
+10985,https://github.com/open-telemetry/opentelemetry.io/pull/10985,merged,issue_comment,opentelemetry-pr-dashboard,2026-07-23T06:27:25Z,,bot-status,"<!-- pull-request-dashboard-status -->
+<!-- pull-request-dashboard-status-revision:13 -->
+## Pull request dashboard status
+
+_Status last refreshed: 2026-07-24 15:17:43 UTC._
+
+- **Status:** Merged.
+
+_This automated status or its linked feedback items may be incorrect. If something looks wrong, please [report it](https://github.com/open-telemetry/shared-workflows/issues/new?template=incorrect-pr-dashboard-result.md&title=PR+dashboard+result+looks+incorrect&body=PR%3A+https%3A%2F%2Fgithub.com%2Fopen-telemetry%2Fopentelemetry.io%2Fpull%2F10985%0A%0ACurrent+live+status+comment%3A%0A%3E+%3C%21--+pull-request-dashboard-status+--%3E%0A%3E+%3C%21--+pull-request-dashboard-status-revision%3A13+--%3E%0A%3E+%23%23+Pull+request+dashboard+status%0A%3E+%0A%3E+_Status+last+refreshed%3A+2026-07-24+15%3A17%3A43+UTC._%0A%3E+%0A%3E+-+%2A%2AStatus%3A%2A%2A+Merged.%0A%0AWhat+looks+incorrect%3A%0A) with the result you expected._"
+10985,https://github.com/open-telemetry/opentelemetry.io/pull/10985,merged,issue_comment,vitorvasc,2026-07-24T15:07:46Z,,broken-link,"Refcache update done using: `/refresh-refcache-pr-fix`
+
+Fixed a stale geminicli.com anchor in the registry and restored 48 refcache success entries (bot-walled hosts, client-side-only fragments) that the refresh had dropped; the link check now passes locally with 0 errors (203130 OK / 68044 unique)."
+11002,https://github.com/open-telemetry/opentelemetry.io/pull/11002,merged,issue_comment,opentelemetry-pr-dashboard,2026-07-24T05:38:41Z,,bot-status,"<!-- pull-request-dashboard-status -->
+<!-- pull-request-dashboard-status-revision:13 -->
+## Pull request dashboard status
+
+_Status last refreshed: 2026-07-24 10:40:26 UTC._
+
+- **Status:** Merged.
+
+_This automated status or its linked feedback items may be incorrect. If something looks wrong, please [report it](https://github.com/open-telemetry/shared-workflows/issues/new?template=incorrect-pr-dashboard-result.md&title=PR+dashboard+result+looks+incorrect&body=PR%3A+https%3A%2F%2Fgithub.com%2Fopen-telemetry%2Fopentelemetry.io%2Fpull%2F11002%0A%0ACurrent+live+status+comment%3A%0A%3E+%3C%21--+pull-request-dashboard-status+--%3E%0A%3E+%3C%21--+pull-request-dashboard-status-revision%3A13+--%3E%0A%3E+%23%23+Pull+request+dashboard+status%0A%3E+%0A%3E+_Status+last+refreshed%3A+2026-07-24+10%3A40%3A26+UTC._%0A%3E+%0A%3E+-+%2A%2AStatus%3A%2A%2A+Merged.%0A%0AWhat+looks+incorrect%3A%0A) with the result you expected._"
+11021,https://github.com/open-telemetry/opentelemetry.io/pull/11021,merged,issue_comment,opentelemetry-pr-dashboard,2026-07-25T05:37:40Z,,bot-status,"<!-- pull-request-dashboard-status -->
+<!-- pull-request-dashboard-status-revision:13 -->
+## Pull request dashboard status
+
+_Status last refreshed: 2026-07-26 08:36:08 UTC._
+
+- **Status:** Merged.
+
+_This automated status or its linked feedback items may be incorrect. If something looks wrong, please [report it](https://github.com/open-telemetry/shared-workflows/issues/new?template=incorrect-pr-dashboard-result.md&title=PR+dashboard+result+looks+incorrect&body=PR%3A+https%3A%2F%2Fgithub.com%2Fopen-telemetry%2Fopentelemetry.io%2Fpull%2F11021%0A%0ACurrent+live+status+comment%3A%0A%3E+%3C%21--+pull-request-dashboard-status+--%3E%0A%3E+%3C%21--+pull-request-dashboard-status-revision%3A13+--%3E%0A%3E+%23%23+Pull+request+dashboard+status%0A%3E+%0A%3E+_Status+last+refreshed%3A+2026-07-26+08%3A36%3A08+UTC._%0A%3E+%0A%3E+-+%2A%2AStatus%3A%2A%2A+Merged.%0A%0AWhat+looks+incorrect%3A%0A) with the result you expected._"
+11021,https://github.com/open-telemetry/opentelemetry.io/pull/11021,merged,review_approved,chalin,2026-07-26T08:31:54Z,,version-bump-approval,"Version bumps only — no other field changes, no added or changed URLs. Per sig-practices.md (PRs from bots).
+
+2 files bumped
+  1.8.2 -> 1.8.3  (1)
+  1.0.0-alpha.10 -> 1.0.0-alpha.11  (1)"

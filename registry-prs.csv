@@ -1,0 +1,181 @@
+number,title,author,state,closed_or_merged_at,url
+8871,Add FusionCache to registry,jodydonetti,merged,2026-02-12T11:13:45Z,https://github.com/open-telemetry/opentelemetry.io/pull/8871
+8979,Add the hydrolix collector exporter to the registry,murphpdx,merged,2026-03-02T08:09:00Z,https://github.com/open-telemetry/opentelemetry.io/pull/8979
+9051,Auto-update registry versions (628fb3db0f61d93cbe41b6a587e7913185f81f37),otelbot[bot],merged,2026-01-28T07:09:16Z,https://github.com/open-telemetry/opentelemetry.io/pull/9051
+9057,Auto-update registry versions (d724805c5bc9e2a422fa5ee36c01699eabe5d20e),otelbot[bot],merged,2026-01-29T09:00:48Z,https://github.com/open-telemetry/opentelemetry.io/pull/9057
+9084,Auto-update registry versions (de3c98bbb20d08483760e6b4cf4e32904120caa2),otelbot[bot],merged,2026-02-02T08:22:50Z,https://github.com/open-telemetry/opentelemetry.io/pull/9084
+9090,Update Keycloak integration,ahus1,merged,2026-02-03T12:31:44Z,https://github.com/open-telemetry/opentelemetry.io/pull/9090
+9093,Auto-update registry versions (a4de2b0806357d251418d2575ecfc672f2eeb2ec),otelbot[bot],merged,2026-02-03T12:32:41Z,https://github.com/open-telemetry/opentelemetry.io/pull/9093
+9099,Auto-update registry versions (f11e28d9fb27da92b47ddaf8965d66a4e24819cd),otelbot[bot],merged,2026-02-04T09:39:59Z,https://github.com/open-telemetry/opentelemetry.io/pull/9099
+9103,Auto-update registry versions (ae177ace27d1f2a1686a52497dab4bac5b7304bf),otelbot[bot],merged,2026-02-05T13:19:01Z,https://github.com/open-telemetry/opentelemetry.io/pull/9103
+9121,Add RubyLLM instrumentation to registry,clarissalimab,merged,2026-02-12T16:00:45Z,https://github.com/open-telemetry/opentelemetry.io/pull/9121
+9126,Auto-update registry versions (d012bc7ae3469e40b665946ccb1c688322e8237e),otelbot[bot],merged,2026-02-09T07:53:30Z,https://github.com/open-telemetry/opentelemetry.io/pull/9126
+9146,Auto-update registry versions (b30e652b6118a94a273566c8bc999fd456f247d3),otelbot[bot],merged,2026-02-11T08:10:28Z,https://github.com/open-telemetry/opentelemetry.io/pull/9146
+9149,"Add to registry: kgateway, emissary ingress, traefik, and contour",kaspernissen,merged,2026-02-11T14:00:13Z,https://github.com/open-telemetry/opentelemetry.io/pull/9149
+9155,Auto-update registry versions (77a26280b6d0fbf62fe6f92f9f6777f47d38a9a3),otelbot[bot],merged,2026-02-12T13:16:36Z,https://github.com/open-telemetry/opentelemetry.io/pull/9155
+9163,Auto-update registry versions (71028b1c99e0e3ffc1f31056165a447d3065194b),otelbot[bot],merged,2026-02-13T10:03:58Z,https://github.com/open-telemetry/opentelemetry.io/pull/9163
+9177,Auto-update registry versions (9a729980f32357bbd416f25bf1abd4b488488ca9),otelbot[bot],merged,2026-02-17T09:47:44Z,https://github.com/open-telemetry/opentelemetry.io/pull/9177
+9192,Auto-update registry versions (188fb57b5ed475de30d81f36209d632eea3d8dfa),otelbot[bot],merged,2026-02-17T08:36:26Z,https://github.com/open-telemetry/opentelemetry.io/pull/9192
+9195,"Add Dalli, Native",hannahramadan,merged,2026-02-18T10:45:42Z,https://github.com/open-telemetry/opentelemetry.io/pull/9195
+9196,Add Dalli to tags,hannahramadan,merged,2026-02-18T10:37:53Z,https://github.com/open-telemetry/opentelemetry.io/pull/9196
+9198,Auto-update registry versions (434399d07d8f585c31cc735afeeb5fdd2329287a),otelbot[bot],merged,2026-02-18T08:05:42Z,https://github.com/open-telemetry/opentelemetry.io/pull/9198
+9213,Auto-update registry versions (1e6a3bf12fade039f23281d9ade5cddf6ff1a10b),otelbot[bot],merged,2026-02-19T09:13:58Z,https://github.com/open-telemetry/opentelemetry.io/pull/9213
+9224,Add Payara Platform application integration registry entry,breedx-splk,merged,2026-02-20T15:00:35Z,https://github.com/open-telemetry/opentelemetry.io/pull/9224
+9231,Auto-update registry versions (12dc221426ade974ba623813d24858436568f06e),otelbot[bot],merged,2026-02-20T14:17:46Z,https://github.com/open-telemetry/opentelemetry.io/pull/9231
+9234,Add opcua receiver,bruegth,merged,2026-02-23T20:28:13Z,https://github.com/open-telemetry/opentelemetry.io/pull/9234
+9244,Add new utility motel to the registry,andrewh,merged,2026-02-24T11:04:16Z,https://github.com/open-telemetry/opentelemetry.io/pull/9244
+9246,Add MCP server instrumentation for Go to registry,olgasafonova,merged,2026-02-24T11:01:08Z,https://github.com/open-telemetry/opentelemetry.io/pull/9246
+9268,Auto-update registry versions (3693d59e0f5badc32e6ad13c00868867869f331a),otelbot[bot],merged,2026-02-24T09:05:38Z,https://github.com/open-telemetry/opentelemetry.io/pull/9268
+9277,Auto-update registry versions (2a979a7e3cac87a75732a44b9078f76f1d6c1133),otelbot[bot],merged,2026-02-25T06:59:36Z,https://github.com/open-telemetry/opentelemetry.io/pull/9277
+9278,Refresh refcache,otelbot-docs[bot],merged,2026-02-26T16:04:18Z,https://github.com/open-telemetry/opentelemetry.io/pull/9278
+9284,Auto-update registry versions (46a63406c668f1bc920bbe4f30d58a2cebfb9676),otelbot[bot],merged,2026-02-26T13:50:45Z,https://github.com/open-telemetry/opentelemetry.io/pull/9284
+9295,Add k8ssaauthextension to the registry,Jamstah,merged,2026-03-02T10:58:07Z,https://github.com/open-telemetry/opentelemetry.io/pull/9295
+9296,Add otelui to registry,pitr,merged,2026-02-28T17:46:38Z,https://github.com/open-telemetry/opentelemetry.io/pull/9296
+9302,Auto-update registry versions (41a2abb9b05fa6b66fd9c424cd5d9227996cfb1b),otelbot[bot],merged,2026-02-28T17:34:19Z,https://github.com/open-telemetry/opentelemetry.io/pull/9302
+9305,Auto-update registry versions (fdc73ee6b853cd5b6c970300cfba91d357165df6),otelbot[bot],merged,2026-03-02T09:07:40Z,https://github.com/open-telemetry/opentelemetry.io/pull/9305
+9317,Auto-update registry versions (911836540f1b782f793bdab74e925ae4251926e0),otelbot[bot],merged,2026-03-03T08:07:27Z,https://github.com/open-telemetry/opentelemetry.io/pull/9317
+9331,Auto-update registry versions (77d4711dc9612222fe6bb13802be65662416607a),otelbot[bot],merged,2026-03-04T10:43:51Z,https://github.com/open-telemetry/opentelemetry.io/pull/9331
+9334,Auto-update registry versions (fa6ecab718a48a1f240d33e50ff098eab1d22a59),otelbot[bot],merged,2026-03-05T08:06:20Z,https://github.com/open-telemetry/opentelemetry.io/pull/9334
+9348,add execreceiver to the registry,graphaelli,merged,2026-03-07T18:04:24Z,https://github.com/open-telemetry/opentelemetry.io/pull/9348
+9351,Auto-update registry versions (b1e0ca6914b587b8c02dc8110430f05642758e10),otelbot[bot],merged,2026-03-07T18:00:55Z,https://github.com/open-telemetry/opentelemetry.io/pull/9351
+9355,Auto-update registry versions (6f3af3825e2a9c79ddb916665a82204128420dab),otelbot[bot],merged,2026-03-09T09:45:56Z,https://github.com/open-telemetry/opentelemetry.io/pull/9355
+9361,Auto-update registry versions (206242695c6279a3af689d14e9c9aa5967e5a67d),otelbot[bot],merged,2026-03-09T09:45:56Z,https://github.com/open-telemetry/opentelemetry.io/pull/9361
+9375,registry: add smapped-traces JS exporter,jrandolf,closed_unmerged,2026-05-13T16:25:12Z,https://github.com/open-telemetry/opentelemetry.io/pull/9375
+9382,Auto-update registry versions (4aa666d0086152a2ace34b509da7279609cfe593),otelbot[bot],merged,2026-03-12T01:34:39Z,https://github.com/open-telemetry/opentelemetry.io/pull/9382
+9384,Create collector-receiver-chromium.yml,stuart23,merged,2026-03-12T20:06:50Z,https://github.com/open-telemetry/opentelemetry.io/pull/9384
+9388,Auto-update registry versions (7658861b312da17f1c2794d1a0bf21f0395d0a5c),otelbot[bot],merged,2026-03-12T10:07:24Z,https://github.com/open-telemetry/opentelemetry.io/pull/9388
+9390,Refresh refcache,otelbot-docs[bot],merged,2026-03-12T11:11:15Z,https://github.com/open-telemetry/opentelemetry.io/pull/9390
+9391,Maintainer docs: add localization onboarding guide,vitorvasc,merged,2026-03-13T12:32:32Z,https://github.com/open-telemetry/opentelemetry.io/pull/9391
+9394,Auto-update registry versions (489db09170601264ea136778a74eeb3e9eccfe13),otelbot[bot],merged,2026-03-13T08:10:36Z,https://github.com/open-telemetry/opentelemetry.io/pull/9394
+9405,Add Deno to the Otel registry,bartlomieju,merged,2026-03-15T00:58:07Z,https://github.com/open-telemetry/opentelemetry.io/pull/9405
+9408,Auto-update registry versions (ceb28db882f71da6e5dca3fe7368694738cf3360),otelbot[bot],merged,2026-03-15T20:59:54Z,https://github.com/open-telemetry/opentelemetry.io/pull/9408
+9409,Add otel-gui to the registry,metafab,merged,2026-03-16T11:08:43Z,https://github.com/open-telemetry/opentelemetry.io/pull/9409
+9432,Auto-update registry versions (6223669d6e1c3974c33d32098ca1ed788bd7d1c1),otelbot[bot],merged,2026-03-17T08:42:05Z,https://github.com/open-telemetry/opentelemetry.io/pull/9432
+9433,Refresh refcache,otelbot-docs[bot],merged,2026-03-17T13:02:21Z,https://github.com/open-telemetry/opentelemetry.io/pull/9433
+9435,blog: add post on Elastic PHP distro donation (#9434),intuibase,closed_unmerged,2026-04-09T08:09:06Z,https://github.com/open-telemetry/opentelemetry.io/pull/9435
+9442,Auto-update registry versions (0a2c79db54fc5e24048a7566b2d1f6a25ae842a4),otelbot[bot],merged,2026-03-18T08:46:22Z,https://github.com/open-telemetry/opentelemetry.io/pull/9442
+9446,Refresh refcache,otelbot-docs[bot],merged,2026-03-18T10:59:00Z,https://github.com/open-telemetry/opentelemetry.io/pull/9446
+9486,registry: Add Traceway OpenTelemetry Symfony Bundle,jstojiljkovic,closed_unmerged,2026-03-24T09:39:53Z,https://github.com/open-telemetry/opentelemetry.io/pull/9486
+9488,registry: Add Traceway OpenTelemetry Symfony Bundle,jstojiljkovic,merged,2026-03-24T15:07:50Z,https://github.com/open-telemetry/opentelemetry.io/pull/9488
+9496,Add TraceVerde (genai-otel-instrument) to registry,Mandark-droid,merged,2026-03-26T16:16:57Z,https://github.com/open-telemetry/opentelemetry.io/pull/9496
+9497,Auto-update registry versions (6d4936ad0c2c1f3ddfe58464a9ff425d31c2ccc6),otelbot[bot],merged,2026-03-25T11:18:31Z,https://github.com/open-telemetry/opentelemetry.io/pull/9497
+9498,Refresh refcache,otelbot-docs[bot],merged,2026-04-09T18:33:09Z,https://github.com/open-telemetry/opentelemetry.io/pull/9498
+9499,Add exportercreator to registry,stuart23,merged,2026-04-24T19:55:33Z,https://github.com/open-telemetry/opentelemetry.io/pull/9499
+9503,Auto-update registry versions (826c4cf3de4f335bc053fd627a88b87bda180b9c),otelbot[bot],merged,2026-03-26T10:28:28Z,https://github.com/open-telemetry/opentelemetry.io/pull/9503
+9508,"[registry] Add missing components, sync contrib repos",vitorvasc,merged,2026-04-02T14:16:45Z,https://github.com/open-telemetry/opentelemetry.io/pull/9508
+9512,Auto-update registry versions (c1829765613fbf9404bbef6724f6a222b211d019),otelbot[bot],merged,2026-03-27T08:08:52Z,https://github.com/open-telemetry/opentelemetry.io/pull/9512
+9517,Auto-update registry versions (caae079c4cb3f4353f2b01c1c5d4c74d0b6909c9),otelbot[bot],merged,2026-03-30T08:05:53Z,https://github.com/open-telemetry/opentelemetry.io/pull/9517
+9533,Auto-update registry versions (50689a8471b2a416ccd068af33833f89b151d3a4),otelbot[bot],merged,2026-03-31T10:00:35Z,https://github.com/open-telemetry/opentelemetry.io/pull/9533
+9541,Auto-update registry versions (ddef91234d37a057dad13cc54919ecb7db43a7a8),otelbot[bot],merged,2026-04-01T08:39:30Z,https://github.com/open-telemetry/opentelemetry.io/pull/9541
+9556,Auto-update registry versions (cd7ff142a3cc4b1d40f4dc04cada7c0bfbaca6f3),otelbot[bot],closed_unmerged,2026-04-06T10:45:39Z,https://github.com/open-telemetry/opentelemetry.io/pull/9556
+9566,Auto-update registry versions (1dab809935f2e5f33bba7fb80ce32c269d1350e0),otelbot[bot],closed_unmerged,2026-04-06T10:46:03Z,https://github.com/open-telemetry/opentelemetry.io/pull/9566
+9568,Auto-update registry versions (6026b30c7dac76d8b2ada424b64c994ad3cc0c28),otelbot[bot],merged,2026-04-06T10:37:22Z,https://github.com/open-telemetry/opentelemetry.io/pull/9568
+9579,[registry] Update Standalone Aspire Dashboard entry,martinjt,merged,2026-04-06T15:44:56Z,https://github.com/open-telemetry/opentelemetry.io/pull/9579
+9593,distinguish manual and auto instrumentation,y1yang0,closed_unmerged,2026-04-16T02:16:14Z,https://github.com/open-telemetry/opentelemetry.io/pull/9593
+9594,Auto-update registry versions (4d83465e8edde274b26eea3a237e161016fe87b5),otelbot[bot],merged,2026-04-07T09:32:41Z,https://github.com/open-telemetry/opentelemetry.io/pull/9594
+9609,Auto-update registry versions (03f97a63eaaee7e847d0a9d1fa78c88dca7cc01d),otelbot[bot],merged,2026-04-08T07:57:30Z,https://github.com/open-telemetry/opentelemetry.io/pull/9609
+9616,Auto-update registry versions (b4f38eb8aba47aeea3665fb7f4f48a9f1b9281b2),otelbot[bot],merged,2026-04-09T07:15:25Z,https://github.com/open-telemetry/opentelemetry.io/pull/9616
+9629,Auto-update registry versions (eefc3b299eebd1b79b9a480b1434c17a29f3ed2b),otelbot[bot],merged,2026-04-13T08:09:36Z,https://github.com/open-telemetry/opentelemetry.io/pull/9629
+9645,Auto-update registry versions (255d3db70417be172382a464aa363fdbea4c0d5d),otelbot[bot],merged,2026-04-14T07:09:49Z,https://github.com/open-telemetry/opentelemetry.io/pull/9645
+9657,Auto-update registry versions (d4fa05e0fd11aaec4a723abb1ef0b731fbfaf08e),otelbot[bot],merged,2026-04-15T07:36:56Z,https://github.com/open-telemetry/opentelemetry.io/pull/9657
+9670,Auto-update registry versions (070bcb887da9b79c7d10dfee8b8fd98e45ec5d33),otelbot[bot],merged,2026-04-17T11:23:36Z,https://github.com/open-telemetry/opentelemetry.io/pull/9670
+9678,Auto-update registry versions (6d4cbdb5975dea2b5b682e275ad18c3d78608957),otelbot[bot],merged,2026-04-18T21:32:57Z,https://github.com/open-telemetry/opentelemetry.io/pull/9678
+9716,Add PHP class auto-instrumentation to registry,eerzho,closed_unmerged,2026-07-01T05:20:10Z,https://github.com/open-telemetry/opentelemetry.io/pull/9716
+9717,Auto-update registry versions (bba2f007cfd2cb455aac7ae5bd68973873c54e6e),otelbot[bot],merged,2026-04-22T09:21:43Z,https://github.com/open-telemetry/opentelemetry.io/pull/9717
+9731,Auto-update registry versions (3991a3f2b003884fab1ca1a03f4135eb214034d1),otelbot[bot],merged,2026-04-23T07:39:58Z,https://github.com/open-telemetry/opentelemetry.io/pull/9731
+9744,JAVA-SDK Testing Docs,lbtan,closed_unmerged,2026-04-30T19:27:41Z,https://github.com/open-telemetry/opentelemetry.io/pull/9744
+9745,Refresh refcache,otelbot-docs[bot],merged,2026-04-28T08:02:37Z,https://github.com/open-telemetry/opentelemetry.io/pull/9745
+9764,Auto-update registry versions (399e8b2a29cbf492767cde2fdc51aa9b7226b9d9),otelbot[bot],merged,2026-04-28T07:29:29Z,https://github.com/open-telemetry/opentelemetry.io/pull/9764
+9785,Auto-update registry versions (060260b4c7caf11748f28d084ff9d45250b2f014),otelbot[bot],closed_unmerged,2026-04-30T09:25:14Z,https://github.com/open-telemetry/opentelemetry.io/pull/9785
+9790,Auto-update registry versions (f120b9d989f3f0472dbb5ed3fac9c7d938ac103f),otelbot[bot],merged,2026-04-30T09:37:25Z,https://github.com/open-telemetry/opentelemetry.io/pull/9790
+9799,Auto-update registry versions (5ebb27c4e73afe564c91f1c54b22304f824c16bc),otelbot[bot],merged,2026-05-02T12:46:10Z,https://github.com/open-telemetry/opentelemetry.io/pull/9799
+9804,Auto-update registry versions (bdbca73c1cf27475a9b99f49866249b585e33550),otelbot[bot],merged,2026-05-02T12:37:27Z,https://github.com/open-telemetry/opentelemetry.io/pull/9804
+9837,Auto-update registry versions (c948824a8af8282b337cd19327a11f9c7eae09fe),otelbot[bot],merged,2026-05-06T08:07:54Z,https://github.com/open-telemetry/opentelemetry.io/pull/9837
+9846,Auto-update registry versions (5d213e81f671ddac676c8eeb69b57e5ccdbb71d3),otelbot[bot],merged,2026-05-07T09:20:54Z,https://github.com/open-telemetry/opentelemetry.io/pull/9846
+9859,Auto-update registry versions (82024485c36f9d73cba636ffd6d0a9e9f63722c2),otelbot[bot],merged,2026-05-10T21:41:52Z,https://github.com/open-telemetry/opentelemetry.io/pull/9859
+9860,Add react-telemetry-open — React 18+ instrumentation library,techiesinha,closed_unmerged,2026-05-13T14:33:43Z,https://github.com/open-telemetry/opentelemetry.io/pull/9860
+9869,Auto-update registry versions (53badeca3e2fda55fbc1450b5c584bd1a333bb10),otelbot[bot],merged,2026-05-11T08:33:27Z,https://github.com/open-telemetry/opentelemetry.io/pull/9869
+9886,Auto-update registry versions (aef9c27c5f6a8c17b05837e0cd136d577e217587),otelbot[bot],merged,2026-05-12T07:39:54Z,https://github.com/open-telemetry/opentelemetry.io/pull/9886
+9893,Add TokenJam to registry,anilmurty,closed_unmerged,2026-06-02T22:41:03Z,https://github.com/open-telemetry/opentelemetry.io/pull/9893
+9898,Auto-update registry versions (28588b976f1f6adf0b2a2e320819b0d06d9bab8f),otelbot[bot],merged,2026-05-13T08:30:38Z,https://github.com/open-telemetry/opentelemetry.io/pull/9898
+9899,Add react-telemetry-open — React 18+ instrumentation library,techiesinha,merged,2026-05-20T20:11:37Z,https://github.com/open-telemetry/opentelemetry.io/pull/9899
+9907,Auto-update registry versions (834bd65b6b4bec1f23044a174d6d3d668a95ae5a),otelbot[bot],merged,2026-05-14T09:24:34Z,https://github.com/open-telemetry/opentelemetry.io/pull/9907
+9912,Add otelc to OpenTelemetry registry,ADITYA-CODE-SOURCE,merged,2026-05-28T22:14:52Z,https://github.com/open-telemetry/opentelemetry.io/pull/9912
+9913,Auto-update registry versions (57535cee7c1e9925bc04202cd04f908347839dcd),otelbot[bot],merged,2026-05-15T09:19:14Z,https://github.com/open-telemetry/opentelemetry.io/pull/9913
+9918,Auto-update registry versions (2cd4387ae4a5bba91d7b185fed192a5b1108d834),otelbot[bot],merged,2026-05-16T08:29:35Z,https://github.com/open-telemetry/opentelemetry.io/pull/9918
+9928,feat(registry): add otelc Go compile-time instrumentation,Pulkit7070,closed_unmerged,2026-05-20T19:38:59Z,https://github.com/open-telemetry/opentelemetry.io/pull/9928
+9939,Auto-update registry versions (98382b975ad45aca0455f32cae5d364d2b98f968),otelbot[bot],merged,2026-05-19T08:58:15Z,https://github.com/open-telemetry/opentelemetry.io/pull/9939
+9948,Auto-update registry versions (0a8cdcdf35ae34c7dcf31b70b728d77f8b74ad1a),otelbot[bot],merged,2026-05-20T19:36:23Z,https://github.com/open-telemetry/opentelemetry.io/pull/9948
+9977,Auto-update registry versions (707456f1ddc4febef0803e29226d4136446be7a5),otelbot[bot],merged,2026-05-21T08:49:51Z,https://github.com/open-telemetry/opentelemetry.io/pull/9977
+9990,Auto-update registry versions (792934c42d46e6a63c02af31482d62036601d4ee),otelbot[bot],merged,2026-05-22T10:43:41Z,https://github.com/open-telemetry/opentelemetry.io/pull/9990
+10000,Add Ingero Fleet to the registry,dml37,closed_unmerged,2026-05-22T13:21:58Z,https://github.com/open-telemetry/opentelemetry.io/pull/10000
+10006,Auto-update registry versions (c7ee42a14c5ba3458bf556c8381e173a945300b5),otelbot[bot],merged,2026-05-25T06:25:40Z,https://github.com/open-telemetry/opentelemetry.io/pull/10006
+10009,Auto-update registry versions (81679a863bf0a00cce1ed5ec8b968479a0472d24),otelbot[bot],merged,2026-05-25T06:17:05Z,https://github.com/open-telemetry/opentelemetry.io/pull/10009
+10010,Refresh refcache,otelbot-docs[bot],merged,2026-05-30T06:52:21Z,https://github.com/open-telemetry/opentelemetry.io/pull/10010
+10019,Auto-update registry versions (5a9d8301b15b993690abc0c420ee2c02a2f64b29),otelbot[bot],merged,2026-05-26T10:18:55Z,https://github.com/open-telemetry/opentelemetry.io/pull/10019
+10050,Auto-update registry versions (7f90fa895cc78cdd8f06280ee0755bf3808c4663),otelbot[bot],merged,2026-05-27T09:29:38Z,https://github.com/open-telemetry/opentelemetry.io/pull/10050
+10059,Auto-update registry versions (0cb2318e5b727635318967829329117d9f940b4c),otelbot[bot],merged,2026-05-28T17:29:31Z,https://github.com/open-telemetry/opentelemetry.io/pull/10059
+10080,Auto-update registry versions (e727f55e4a34309afb5919c1f1c839bc9a75eab8),otelbot[bot],merged,2026-05-30T06:03:18Z,https://github.com/open-telemetry/opentelemetry.io/pull/10080
+10086,Adds Tintri Receiver to the Registry,jraleigh,closed_unmerged,2026-07-10T14:05:40Z,https://github.com/open-telemetry/opentelemetry.io/pull/10086
+10101,Refresh traceway symfony registry,jstojiljkovic,closed_unmerged,2026-06-01T07:23:37Z,https://github.com/open-telemetry/opentelemetry.io/pull/10101
+10102,Refresh traceway/opentelemetry-symfony registry entry,jstojiljkovic,merged,2026-06-02T22:11:34Z,https://github.com/open-telemetry/opentelemetry.io/pull/10102
+10111,Auto-update registry versions (872ece6ddc44b8ee01d1c92b85ecec10548f49a1),otelbot[bot],merged,2026-06-02T07:02:32Z,https://github.com/open-telemetry/opentelemetry.io/pull/10111
+10134,Auto-update registry versions (a29ba06f0aeb5d90e576bffe099d6f8bd0fd56d4),otelbot[bot],merged,2026-06-03T07:57:39Z,https://github.com/open-telemetry/opentelemetry.io/pull/10134
+10158,Perform registry scanning to pickup new entry types,thompson-tomo,merged,2026-07-22T14:56:57Z,https://github.com/open-telemetry/opentelemetry.io/pull/10158
+10171,Add AgentMark to the registry,kocobee,merged,2026-06-18T15:28:27Z,https://github.com/open-telemetry/opentelemetry.io/pull/10171
+10213,Auto-update registry versions (d7385af321c50c990a5ac6cfe4fb1e97ba32cd2c),otelbot[bot],merged,2026-06-08T05:15:30Z,https://github.com/open-telemetry/opentelemetry.io/pull/10213
+10232,Add Dash0 Kubernetes Operator to registry,juliafmorgado,closed_unmerged,2026-06-05T18:03:46Z,https://github.com/open-telemetry/opentelemetry.io/pull/10232
+10233,Refresh refcache,otelbot-docs[bot],merged,2026-06-05T20:34:16Z,https://github.com/open-telemetry/opentelemetry.io/pull/10233
+10235,Registry/dash0 operator,juliafmorgado,merged,2026-06-12T14:04:32Z,https://github.com/open-telemetry/opentelemetry.io/pull/10235
+10250,Auto-update registry versions (a7c4916385a376b56406d9996fcf3a63cbe21da3),otelbot[bot],merged,2026-06-06T17:11:35Z,https://github.com/open-telemetry/opentelemetry.io/pull/10250
+10298,Auto-update registry versions (77a8dbed98b54dacf6eacad0a5b573d70953bfc6),otelbot[bot],merged,2026-06-09T15:45:28Z,https://github.com/open-telemetry/opentelemetry.io/pull/10298
+10316,Auto-update registry versions (b1f624e498e4238844e655ea90163c9fe0aeca1f),otelbot[bot],merged,2026-06-10T06:18:20Z,https://github.com/open-telemetry/opentelemetry.io/pull/10316
+10349,Auto-update registry versions (175dd06353041f2b7af1b0fcea31df42d9fa59ca),otelbot[bot],merged,2026-06-12T08:29:46Z,https://github.com/open-telemetry/opentelemetry.io/pull/10349
+10366,Auto-update registry versions (3090c55e122350f6c01f339a86057f552994bda3),otelbot[bot],merged,2026-06-12T08:24:17Z,https://github.com/open-telemetry/opentelemetry.io/pull/10366
+10392,Auto-update registry versions (1765dd8b11d1875177d4da4d223fc4b8c71f647d),otelbot[bot],merged,2026-06-13T09:43:07Z,https://github.com/open-telemetry/opentelemetry.io/pull/10392
+10428,Add registry entry for pebble_tail_storage extension,carsonip,merged,2026-06-19T10:02:49Z,https://github.com/open-telemetry/opentelemetry.io/pull/10428
+10441,Auto-update registry versions (980e4a12641076d298cdf1963719e337730fcb15),otelbot[bot],merged,2026-06-16T08:55:02Z,https://github.com/open-telemetry/opentelemetry.io/pull/10441
+10460,Auto-update registry versions (c71b6d5f040a648083fdccdcf2869168baaf9a68),otelbot[bot],merged,2026-06-17T11:09:33Z,https://github.com/open-telemetry/opentelemetry.io/pull/10460
+10470,Auto-update registry versions (e7d8327f8bf9f84438a020bb49c0d6e3c8e20de8),otelbot[bot],merged,2026-06-18T23:39:23Z,https://github.com/open-telemetry/opentelemetry.io/pull/10470
+10482,Auto-update registry versions (7f0edbee4dce1cd21b79b22c7c24a0b311e34654),otelbot[bot],merged,2026-06-22T05:49:04Z,https://github.com/open-telemetry/opentelemetry.io/pull/10482
+10492,Auto-update registry versions (161b835407e3342d86b547dd35060338dbeb2f44),otelbot[bot],merged,2026-06-22T06:15:31Z,https://github.com/open-telemetry/opentelemetry.io/pull/10492
+10495,Add ASP.NET Core and .NET HttpClient as native integrations,cijothomas,merged,2026-06-22T06:28:25Z,https://github.com/open-telemetry/opentelemetry.io/pull/10495
+10496,Fix Azure SDK integration: use vendor-neutral docs link,cijothomas,merged,2026-06-22T06:35:56Z,https://github.com/open-telemetry/opentelemetry.io/pull/10496
+10503,Make images zoomable,jaredDlewis,merged,2026-07-06T13:56:32Z,https://github.com/open-telemetry/opentelemetry.io/pull/10503
+10515,Auto-update registry versions (1a0a1fd54f1b89b7e20d5ff9e0f0bdea75ab276b),otelbot[bot],merged,2026-06-23T15:53:01Z,https://github.com/open-telemetry/opentelemetry.io/pull/10515
+10535,Auto-update registry versions (6aed03e5d71675881666f7faf90db55b0c93b8ac),otelbot[bot],merged,2026-06-24T08:02:51Z,https://github.com/open-telemetry/opentelemetry.io/pull/10535
+10556,Auto-update registry versions (c41e9cf383f4d1ac8f3407973b76ef7ae18c397f),otelbot[bot],merged,2026-06-26T19:00:19Z,https://github.com/open-telemetry/opentelemetry.io/pull/10556
+10575,Add Oodle AI to OpenTelemetry Registry,eragon512,closed_unmerged,2026-06-30T10:02:51Z,https://github.com/open-telemetry/opentelemetry.io/pull/10575
+10586,Auto-update registry versions (76fcb036a755dafca243d852aa383db771ea0800),otelbot[bot],merged,2026-06-27T16:23:49Z,https://github.com/open-telemetry/opentelemetry.io/pull/10586
+10609,feat: Add go compile-time instrumentation registry entries,amazingakai,merged,2026-07-01T05:57:38Z,https://github.com/open-telemetry/opentelemetry.io/pull/10609
+10615,Registry: fix capitalized boolean values,chalin,merged,2026-06-29T13:54:50Z,https://github.com/open-telemetry/opentelemetry.io/pull/10615
+10618,Refresh refcache,otelbot-docs[bot],merged,2026-06-29T16:15:13Z,https://github.com/open-telemetry/opentelemetry.io/pull/10618
+10632,Add PHP class auto-instrumentation to registry,eerzho,merged,2026-07-01T05:28:44Z,https://github.com/open-telemetry/opentelemetry.io/pull/10632
+10638,Auto-update registry versions (a240445ec785198638a346588e24af1466aafaa0),otelbot[bot],merged,2026-07-01T06:35:33Z,https://github.com/open-telemetry/opentelemetry.io/pull/10638
+10649,[ja] update translation of content/en/docs/languages/python/_index.md,ymotongpoo,closed_unmerged,2026-07-02T13:23:22Z,https://github.com/open-telemetry/opentelemetry.io/pull/10649
+10663,Auto-update registry versions (6c6286bbaf16fe3b2e59ab2c144cb18b26592d52),otelbot[bot],closed_unmerged,2026-07-04T11:10:22Z,https://github.com/open-telemetry/opentelemetry.io/pull/10663
+10679,Auto-update registry versions (b1d74f7b9a6c54ddd4093018b92c80714bf26f48),otelbot[bot],merged,2026-07-04T11:09:38Z,https://github.com/open-telemetry/opentelemetry.io/pull/10679
+10705,[ja] add translation of content/en/blog/2025/how-to-name-your-metrics.md,ymotongpoo,closed_unmerged,2026-07-07T10:39:00Z,https://github.com/open-telemetry/opentelemetry.io/pull/10705
+10707,Auto-update registry versions (8032bc30febae699c1cecc97a73b899ae0df9bd0),otelbot[bot],merged,2026-07-07T07:24:34Z,https://github.com/open-telemetry/opentelemetry.io/pull/10707
+10717,Auto-update registry versions (bde1dcd56cacf021dafdfcbbf915195039ea8344),otelbot[bot],merged,2026-07-08T07:08:54Z,https://github.com/open-telemetry/opentelemetry.io/pull/10717
+10734,Auto-update registry versions (bf32f444f0bb4654b9eaa25a7678e8766b809cda),otelbot[bot],merged,2026-07-09T10:35:28Z,https://github.com/open-telemetry/opentelemetry.io/pull/10734
+10750,Auto-update registry versions (c745c3cfac5b22d85194af20b82f144eaeb8f011),otelbot[bot],merged,2026-07-10T06:21:59Z,https://github.com/open-telemetry/opentelemetry.io/pull/10750
+10752,Refresh refcache,otelbot-docs[bot],merged,2026-07-10T16:31:28Z,https://github.com/open-telemetry/opentelemetry.io/pull/10752
+10768,fix: Correct typo in exporter title,NicholasGWK,merged,2026-07-11T10:16:06Z,https://github.com/open-telemetry/opentelemetry.io/pull/10768
+10802,Auto-update registry versions (d5041c1b46122a70641b05b5955eb5e9a1e631c5),otelbot[bot],merged,2026-07-13T05:58:23Z,https://github.com/open-telemetry/opentelemetry.io/pull/10802
+10804,Refresh refcache,otelbot-docs[bot],merged,2026-07-13T16:43:33Z,https://github.com/open-telemetry/opentelemetry.io/pull/10804
+10819,Auto-update registry versions (46602613eca964df68ac32823ddca3ce13e8fe4c),otelbot[bot],merged,2026-07-14T07:33:11Z,https://github.com/open-telemetry/opentelemetry.io/pull/10819
+10821,Refresh refcache,otelbot-docs[bot],merged,2026-07-14T10:36:04Z,https://github.com/open-telemetry/opentelemetry.io/pull/10821
+10838,Auto-update registry versions (ec775e958322675991b9172d59193ba83fa58d8c),otelbot[bot],merged,2026-07-15T11:50:50Z,https://github.com/open-telemetry/opentelemetry.io/pull/10838
+10854,Auto-update registry versions (687216242d43c32ba793084b89a17f1da2d7ff0f),otelbot[bot],merged,2026-07-16T05:50:57Z,https://github.com/open-telemetry/opentelemetry.io/pull/10854
+10871,Auto-update registry versions (f41e36e1c8e1c61c8bf8a8584700ed17bd633145),otelbot[bot],merged,2026-07-17T10:04:00Z,https://github.com/open-telemetry/opentelemetry.io/pull/10871
+10873,Refresh refcache,otelbot-docs[bot],merged,2026-07-17T10:30:26Z,https://github.com/open-telemetry/opentelemetry.io/pull/10873
+10880,Auto-update registry versions (a0032f90ce685167e0d0bb296eb54871f114e696),otelbot[bot],merged,2026-07-18T11:14:55Z,https://github.com/open-telemetry/opentelemetry.io/pull/10880
+10909,Add Go compile-time Anthropic instrumentation to registry,pradhyum6144,merged,2026-07-21T05:06:20Z,https://github.com/open-telemetry/opentelemetry.io/pull/10909
+10916,Auto-update registry versions (fe7641253d316193a99ba8f41bfc8036af8c7c6f),otelbot[bot],merged,2026-07-21T06:05:28Z,https://github.com/open-telemetry/opentelemetry.io/pull/10916
+10918,"chore: revert #10235, dash0 operator is not an integration",svrnm,merged,2026-07-21T06:16:41Z,https://github.com/open-telemetry/opentelemetry.io/pull/10918
+10942,Auto-update registry versions (75b550cfa44c3540bbe408c96a5c5cfdd125e544),otelbot[bot],merged,2026-07-22T09:24:48Z,https://github.com/open-telemetry/opentelemetry.io/pull/10942
+10983,Auto-update registry versions (6578275850dc06c1a65cacdd347155c2d3eb6be9),otelbot[bot],merged,2026-07-23T07:30:38Z,https://github.com/open-telemetry/opentelemetry.io/pull/10983
+10985,Refresh refcache,otelbot-docs[bot],merged,2026-07-24T15:16:32Z,https://github.com/open-telemetry/opentelemetry.io/pull/10985
+11002,Auto-update registry versions (0db2966a263f5463fa13f1a86c4a39d4d767dcf7),otelbot[bot],merged,2026-07-24T10:36:21Z,https://github.com/open-telemetry/opentelemetry.io/pull/11002
+11021,Auto-update registry versions (1c891cb68f7fbdda0bab5c2957de49bf0611c33d),otelbot[bot],merged,2026-07-26T08:34:56Z,https://github.com/open-telemetry/opentelemetry.io/pull/11021
