@@ -56,6 +56,19 @@ Review the single PR when given a number or URL. With no argument, sweep:
 | End-user organization providing no OTel services                          | [`data/ecosystem/adopters.yaml`][adopters]                                                                                                    |
 | Customized non-collector OTel components                                  | [`data/ecosystem/distributions.yaml`][distributions]; Collector distributions go to [Collector distributions](/docs/collector/distributions/) |
 
+Products often both emit OTel data and ingest OTLP, and the table reads as if
+its rows were disjoint. Decide by what the organization offers:
+
+- Ingesting OTLP as a service means [`vendors.yaml`][vendors], even when the
+  product also ships an emitter.
+- That emitter, plugin, or Collector component may still get its own
+  `data/registry/` entry. Open source parts of a vendor's offering do not make
+  the offering itself open source ([how to add a vendor][vendors]).
+- `application integration` is for products that emit. A commercial entry that
+  only receives belongs in `vendors.yaml`.
+- A vendor's Collector distribution is listed separately in
+  [`distributions.yaml`][distributions], not folded into the vendor entry.
+
 ## Registry entries: what CI does not catch
 
 Schema validation (`npm run check:registry`) enforces less than the docs
@@ -135,7 +148,9 @@ The most common reasons registry PRs stall; check them early:
   must open a new PR from a different branch.
 - When maintainer edits are disabled or the fork is org-owned, `/fix:*` commands
   cannot push; ask the contributor to run the fix locally (for example,
-  `npm run fix:link-cache`) and push.
+  `npm run fix:link-cache`) and push. The symptom is a patch job that succeeds
+  followed by a push rejected with `deny updating a hidden ref`: the checkout
+  falls back to the read-only `refs/pull/<n>/head`.
 - The CLA check covers every commit author, including co-authors introduced by
   applying suggestions.
 - The PR may duplicate an existing open PR or an existing entry.
