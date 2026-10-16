@@ -4,28 +4,25 @@ aliases:
   - /docs/languages/js/api/tracing
   - manual
 weight: 30
-default_lang_commit: 9cdf79c9345a05fb82d0e67132c9f68dabddadba
-drifted_from_default: true
+default_lang_commit: 6ce0f45ce4b7bbb4e85bef99709711edccec8a21
 description: Instrumentação para OpenTelemetry JavaScript
 cSpell:ignore: dicelib instrumentacao Millis rolldice versao
 ---
 
 {{% include instrumentation-intro.md %}}
 
-{{% alert title="Nota" %}}
-
-Nesta página você irá aprender como adicionar rastros, métricas e logs ao código
-manualmente. No entanto, não é necessário utilizar apenas um tipo de
-instrumentação: utilize a [instrumentação automática](/docs/zero-code/js/) para
-começar e depois enriqueça o código com a instrumentação manual conforme
-necessário.
-
-Além disso, para bibliotecas das quais o código depende, não é necessário
-escrever o código de instrumentação manualmente, pois elas podem vir com
-OpenTelemetry integrado de forma nativa ou é possível utilizar
-[bibliotecas de instrumentação](/docs/languages/js/libraries/).
-
-{{% /alert %}}
+> [!NOTE]
+>
+> Nesta página você irá aprender como adicionar rastros, métricas e logs ao
+> código _manualmente_. No entanto, não é necessário utilizar apenas um tipo de
+> instrumentação: utilize a [instrumentação automática](/docs/zero-code/js/)
+> para começar e depois enriqueça o código com a instrumentação manual conforme
+> necessário.
+>
+> Além disso, para bibliotecas das quais o código depende, não é necessário
+> escrever o código de instrumentação manualmente, pois elas podem vir com
+> OpenTelemetry integrado de forma _nativa_ ou é possível utilizar
+> [bibliotecas de instrumentação](/docs/languages/js/libraries/).
 
 ## Preparação da aplicação de exemplo {#example-app}
 
@@ -36,6 +33,8 @@ aprendizado sobre instrumentação manual.
 Não é obrigatório utilizar a aplicação de exemplo: caso deseje instrumentar uma
 aplicação ou biblioteca própria, basta seguir as instruções desta seção para
 adaptar o processo ao seu código.
+
+{{% include esm-support-note.md %}}
 
 ### Dependências {#example-app-dependencies}
 
@@ -197,8 +196,7 @@ npm install @opentelemetry/api @opentelemetry/resources @opentelemetry/semantic-
 
 ### Inicializar o SDK {#initialize-the-sdk}
 
-{{% alert title="Note" %}} Caso esteja instrumentando uma biblioteca, **ignore
-esta etapa**. {{% /alert %}}
+> [!NB] Caso esteja instrumentando uma biblioteca, **ignore esta etapa**.
 
 Para instrumentar uma aplicação Node.js, instale o
 [SDK OpenTelemetry para Node.js](https://www.npmjs.com/package/@opentelemetry/sdk-node):
@@ -289,10 +287,11 @@ serviço.
 Existem métodos alternativos para definir atributos de recurso. Para mais
 informações, consulte [Recursos](/docs/languages/js/resources/).
 
-{{% alert title="Note" %}} Os exemplos a seguir que utilizam
-`--import instrumentation.ts` (TypeScript) requerem Node.js v20 ou posterior.
-Caso esteja utilizando Node.js v18, utilize o exemplo em JavaScript.
-{{% /alert %}}
+> [!NOTE]
+>
+> Os exemplos a seguir que utilizam `--import instrumentation.ts` (TypeScript)
+> requerem Node.js v20 ou posterior. Caso esteja utilizando Node.js v18, utilize
+> o exemplo em JavaScript.
 
 {{< tabpane text=true >}} {{% tab TypeScript %}}
 
@@ -321,8 +320,7 @@ dependências. Para mais informações, veja
 
 ### Inicializar rastros {#initialize-tracing}
 
-{{% alert title="Nota" %}} Caso esteja instrumentando uma biblioteca, **ignore
-esta etapa**. {{% /alert %}}
+> [!NB] Caso esteja instrumentando uma biblioteca, **ignore esta etapa**.
 
 Para habilitar [rastros](/docs/concepts/signals/traces/) em uma aplicação, será
 necessário ter um
@@ -1278,8 +1276,7 @@ telemetria sobre o tempo de execução da aplicação.
 
 ### Inicializar métricas {#initialize-metrics}
 
-{{% alert %}} Caso esteja instrumentando uma biblioteca, ignore esta etapa.
-{{% /alert %}}
+> [!NB] Caso esteja instrumentando uma biblioteca, **ignore esta etapa**.
 
 Para ativar [métricas](/docs/concepts/signals/metrics/) em sua aplicação, é
 necessário inicializar um
